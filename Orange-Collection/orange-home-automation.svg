@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="eg6mwedtruuv1"
+   viewBox="0 0 769 769"
+   width="500"
+   height="500"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   version="1.1"
+   sodipodi:docname="home-automation.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="732"
+     inkscape:window-height="480"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="0.30689207"
+     inkscape:cx="384.5"
+     inkscape:cy="384.5"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="eg6mwedtruuv1" />
+  <style
+     id="style2"><![CDATA[#eg6mwedtruuv1{pointer-events: all} #eg6mwedtruuv1:hover * {animation-play-state: running !important}#eg6mwedtruuv7 {animation: eg6mwedtruuv7_f_o 6000ms linear infinite normal forwards}@keyframes eg6mwedtruuv7_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 8.333333% {fill-opacity: 0;animation-timing-function: step-end} 16.666667% {fill-opacity: 1;animation-timing-function: step-end} 25% {fill-opacity: 0;animation-timing-function: step-end} 33.333333% {fill-opacity: 1;animation-timing-function: step-end} 41.666667% {fill-opacity: 0;animation-timing-function: step-end} 100% {fill-opacity: 1} }#eg6mwedtruuv8 {animation: eg6mwedtruuv8_f_o 6000ms linear infinite normal forwards}@keyframes eg6mwedtruuv8_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 50% {fill-opacity: 0;animation-timing-function: step-end} 58.333333% {fill-opacity: 1;animation-timing-function: step-end} 66.666667% {fill-opacity: 0;animation-timing-function: step-end} 75% {fill-opacity: 1;animation-timing-function: step-end} 83.333333% {fill-opacity: 0;animation-timing-function: step-end} 91.666667% {fill-opacity: 1;animation-timing-function: step-end} 100% {fill-opacity: 1} }]]></style>
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
+	.st2{fill:#DDDDDD;}
+	.st3{fill:#01507B;}
+</style>
+<radialGradient id="SVGID_1_" cx="385.802" cy="384.6929" r="383.1984" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFC43D"/>
+	<stop  offset="0.0388" style="stop-color:#FCBA3C"/>
+	<stop  offset="0.3236" style="stop-color:#E77538"/>
+	<stop  offset="0.5292" style="stop-color:#D94A35"/>
+	<stop  offset="0.6335" style="stop-color:#D43934"/>
+	<stop  offset="0.6579" style="stop-color:#CE3732"/>
+	<stop  offset="0.7731" style="stop-color:#B62F2A"/>
+	<stop  offset="0.8803" style="stop-color:#A82A26"/>
+	<stop  offset="0.971" style="stop-color:#A32824"/>
+</radialGradient>
+<path class="st0" d="M769,384.78c0,96.16,0,192.32,0,288.49c0,44.08-33.24,84.37-76.66,92.62c-6.42,1.22-13.05,1.92-19.58,1.92
+	c-191.68,0.1-383.36,0.08-575.04,0.08c-46.99,0-88-36.04-94.16-82.8c-0.54-4.13-0.91-8.31-0.91-12.47
+	C2.6,480.45,2.6,288.29,2.6,96.13c0-44.09,33.26-84.39,76.66-92.63c6.42-1.22,13.05-1.92,19.58-1.92
+	C290.68,1.48,482.52,1.5,674.37,1.5c44.09,0,84.44,33.3,92.63,76.66c1.21,6.42,1.91,13.05,1.92,19.58
+	C769.03,193.42,769,289.1,769,384.78z"/>
+  <g
+     id="eg6mwedtruuv4"
+     transform="matrix(4 0 0 4 -827.27572630499992 -2254.52645875000053)">
+    <g
+       id="eg6mwedtruuv5">
+      <path
+         id="eg6mwedtruuv6"
+         d="M239.330000,665.850000C235.780000,669.430000,232.670000,672.590000,229.530000,675.730000C227.860000,677.400000,227.120000,677.410000,225.480000,675.770000C222.250000,672.550000,219.020000,669.330000,215.800000,666.090000C214.230000,664.510000,214.220000,663.760000,215.800000,662.180000C244.090000,633.910000,272.390000,605.640000,300.690000,577.370000C302.390000,575.680000,303.080000,575.710000,304.890000,577.520000C317.490000,590.100000,330.090000,602.690000,342.700000,615.280000C343.180000,615.760000,343.680000,616.210000,344.550000,617.030000C344.550000,615.940000,344.550000,615.290000,344.550000,614.640000C344.550000,608.900000,344.550000,603.170000,344.550000,597.430000C344.550000,596.930000,344.550000,596.430000,344.590000,595.930000C344.860000,592.400000,345.370000,591.930000,348.880000,591.930000C353.440000,591.930000,358.010000,592.010000,362.570000,591.890000C364.400000,591.840000,365.250000,592.630000,365.520000,594.260000C365.670000,595.180000,365.730000,596.120000,365.730000,597.050000C365.740000,610.240000,365.750000,623.420000,365.710000,636.610000C365.710000,637.840000,366.080000,638.680000,366.940000,639.540000C374.400000,646.930000,381.810000,654.360000,389.240000,661.780000C391.320000,663.860000,391.320000,664.410000,389.240000,666.500000C386.150000,669.590000,383.060000,672.690000,379.950000,675.770000C378.300000,677.410000,377.570000,677.410000,375.900000,675.740000C372.760000,672.600000,369.640000,669.460000,366.110000,665.910000C366.110000,667.050000,366.110000,667.740000,366.110000,668.430000C366.110000,692.490000,366.110000,716.550000,366.110000,740.610000C366.110000,743.530000,365.790000,743.850000,362.910000,743.850000C322.720000,743.850000,282.530000,743.850000,242.350000,743.850000C239.740000,743.850000,239.350000,743.460000,239.350000,740.790000C239.350000,716.670000,239.350000,692.550000,239.350000,668.430000C239.330000,667.760000,239.330000,667.100000,239.330000,665.850000Z"
+         fill="rgb(255,255,255)"
+         stroke="none"
+         stroke-width="1" />
+      <path
+         id="eg6mwedtruuv7"
+         d="M302.450000,652.730000C285.430000,653.140000,270.230000,659.150000,257.520000,671.220000C253.980000,674.570000,249,674.710000,245.820000,671.410000C242.170000,667.630000,242.330000,662.780000,246.160000,659.160000C259.250000,646.810000,274.690000,639.180000,292.530000,637.070000C318.580000,633.980000,341.240000,641.710000,360.300000,659.760000C363.210000,662.520000,363.400000,666.990000,361,670.190000C358.400000,673.670000,354.130000,674.790000,350.540000,672.840000C349.570000,672.310000,348.740000,671.510000,347.920000,670.750000C335.210000,659.010000,320.180000,653.060000,302.450000,652.730000Z"
+         fill="rgb(213,39,39)"
+         stroke="none"
+         stroke-width="1" />
+      <path
+         id="eg6mwedtruuv8"
+         d="M305.850000,667.060000C317.020000,667.350000,329.010000,672.150000,338.950000,681.840000C342.710000,685.500000,342.660000,690.130000,338.960000,693.900000C335.790000,697.140000,330.950000,697.020000,327.430000,693.630000C313.360000,680.030000,292.540000,680.090000,278.390000,693.760000C275.430000,696.620000,271.490000,697.150000,268.270000,695.140000C265,693.090000,263.150000,688.770000,264.500000,685.430000C265.150000,683.830000,266.390000,682.350000,267.670000,681.130000C277.360000,671.940000,289.800000,667.060000,305.850000,667.060000Z"
+         fill="rgb(213,39,39)"
+         stroke="none"
+         stroke-width="1" />
+      <path
+         id="eg6mwedtruuv9"
+         d="M320.590000,713.050000C320.910000,721.790000,313.780000,730.440000,303.940000,730.990000C293.820000,731.560000,285.490000,723.600000,285.230000,713.610000C284.970000,703.920000,292.710000,695.790000,302.450000,695.520000C312.290000,695.250000,320.310000,703,320.590000,713.050000Z"
+         fill="rgb(213,39,39)"
+         stroke="none"
+         stroke-width="1" />
+    </g>
+  </g>
+</svg>

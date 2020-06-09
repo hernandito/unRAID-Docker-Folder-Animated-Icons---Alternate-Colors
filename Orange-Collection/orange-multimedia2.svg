@@ -1,0 +1,131 @@
+<svg id="multimedia" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 769 769" width="500" height="500" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style>
+        @keyframes slider_f_o {
+            0%,
+            35% {
+                fill-opacity: 1;
+                animation-timing-function: step-end;
+            }
+            19%,
+            65% {
+                fill-opacity: 0;
+                animation-timing-function: step-end;
+            }
+            to {
+                fill-opacity: 0;
+            }
+        }
+        @keyframes play_animation__to {
+            0%,
+            to {
+                transform: translate(0.194403px, 0);
+            }
+            19%,
+            35% {
+                transform: translate(40.194403px, 0);
+            }
+            65%,
+            82% {
+                transform: translate(107.694403px, 0);
+            }
+        }
+        @keyframes pause_animation_c_o {
+            0%,
+            35%,
+            82% {
+                opacity: 0;
+                animation-timing-function: step-end;
+            }
+            19%,
+            65% {
+                opacity: 1;
+                animation-timing-function: step-end;
+            }
+            to {
+                opacity: 0;
+            }
+        }
+        @keyframes rewind_animation_c_o {
+            0% {
+                opacity: 0;
+                animation-timing-function: step-end;
+            }
+            82% {
+                opacity: 1;
+                animation-timing-function: step-end;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+        #slider {
+            animation: slider_f_o 10000ms linear infinite normal forwards;
+        }
+        #play_animation {
+            animation: play_animation__to 10000ms linear infinite normal forwards;
+        }
+        #pause_animation {
+            animation: pause_animation_c_o 10000ms linear infinite normal forwards;
+        }
+        #rewind_animation {
+            animation: rewind_animation_c_o 10000ms linear infinite normal forwards;
+        }
+    </style>
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;stroke:#fff;stroke-width:20;stroke-miterlimit:16;}
+	.st2{fill:#DDDDDD;}
+	.st3{fill:#fff;}
+</style>
+<radialGradient id="SVGID_1_" cx="385.802" cy="384.6929" r="383.1984" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFC43D"/>
+	<stop  offset="0.0388" style="stop-color:#FCBA3C"/>
+	<stop  offset="0.3236" style="stop-color:#E77538"/>
+	<stop  offset="0.5292" style="stop-color:#D94A35"/>
+	<stop  offset="0.6335" style="stop-color:#D43934"/>
+	<stop  offset="0.6579" style="stop-color:#CE3732"/>
+	<stop  offset="0.7731" style="stop-color:#B62F2A"/>
+	<stop  offset="0.8803" style="stop-color:#A82A26"/>
+	<stop  offset="0.971" style="stop-color:#A32824"/>
+</radialGradient>
+<path class="st0" d="M769,384.78c0,96.16,0,192.32,0,288.49c0,44.08-33.24,84.37-76.66,92.62c-6.42,1.22-13.05,1.92-19.58,1.92
+	c-191.68,0.1-383.36,0.08-575.04,0.08c-46.99,0-88-36.04-94.16-82.8c-0.54-4.13-0.91-8.31-0.91-12.47
+	C2.6,480.45,2.6,288.29,2.6,96.13c0-44.09,33.26-84.39,76.66-92.63c6.42-1.22,13.05-1.92,19.58-1.92
+	C290.68,1.48,482.52,1.5,674.37,1.5c44.09,0,84.44,33.3,92.63,76.66c1.21,6.42,1.91,13.05,1.92,19.58
+	C769.03,193.42,769,289.1,769,384.78z"/>
+    <g id="player" transform="matrix(4 0 0 4 -889.218 -2342.924)">
+        <path
+            id="player_frame"
+            d="M399 609.17v145.67c-.81 1.49-1.33 3.28-2.49 4.39-1.53 1.45-3.57 2.35-5.39 3.49H245.48c-.17-.11-.33-.25-.52-.31-4.85-1.59-7.36-5.03-7.36-10.11V611.26c0-5.61 4.35-9.97 9.97-9.97 47.16 0 94.32 0 141.48-.01 3.16 0 5.76 1.22 7.66 3.66.98 1.25 1.54 2.81 2.29 4.23z"
+            fill="#fff"
+            stroke="none"
+            stroke-width="1"
+        />
+        <path id="player_window" d="M247.76 712.17H388.8V611.46H247.76v100.71z" fill="#ac2b27" stroke="none" stroke-width="1" />
+        <path
+            id="slider"
+            d="M288.05 661.76c0-10.14-.01-20.27.01-30.41 0-.83.09-1.68.31-2.47.82-2.87 3.2-4.22 6.08-3.42.9.25 1.78.63 2.59 1.09 17.57 10.02 35.12 20.05 52.68 30.09.5.29.99.6 1.44.96 3.23 2.54 3.27 5.94.01 8.42-1.33 1.01-2.83 1.78-4.29 2.62-16.51 9.44-33.02 18.88-49.54 28.31-.64.36-1.28.73-1.96.98-3.97 1.5-7.29-.73-7.33-4.97-.05-5.78-.01-11.55-.01-17.33.01-4.63.01-9.25.01-13.87z"
+            fill="#fff"
+            stroke="none"
+            stroke-width="1"
+        />
+        <path id="slider_bar" d="M373.92 742.96H262.77c-3.04 0-5.53-2.49-5.53-5.53s2.49-5.53 5.53-5.53h111.16c3.04 0 5.53 2.49 5.53 5.53s-2.49 5.53-5.54 5.53z" fill="#ac2b27" stroke="none" stroke-width="1" />
+        <g id="play_animation" transform="translate(.194)">
+            <path id="play" d="M265.53 752.59c-4.63 0-8.42-3.79-8.42-8.42V730.7c0-4.63 3.79-8.42 8.42-8.42s8.42 3.79 8.42 8.42v13.47c0 4.63-3.79 8.42-8.42 8.42z" fill="#ac2b27" stroke="none" stroke-width="1" />
+        </g>
+        <g id="pause_animation" opacity="0" fill="#fff" fill-rule="evenodd" stroke="none" stroke-width="3" stroke-linejoin="round">
+            <rect id="pause1" width="70.945" height="15.135" rx="0" ry="7.567" transform="translate(281.888 638.515)" />
+            <rect id="pause2" width="70.945" height="15.135" rx="0" ry="7.567" transform="translate(281.73 668.515)" />
+        </g>
+        <g id="rewind_animation" opacity="0" fill="#fff" stroke="none" stroke-width=".5">
+            <path
+                id="rewind1"
+                d="M342.774 661.571c0-5.07.005-10.135-.005-15.205 0-.415-.045-.84-.155-1.235-.41-1.435-1.6-2.11-3.04-1.71-.45.125-.89.315-1.295.545-8.785 5.01-17.56 10.025-26.34 15.045-.25.145-.495.3-.72.48-1.615 1.27-1.635 2.97-.005 4.21.665.505 1.415.89 2.145 1.31 8.255 4.72 16.51 9.44 24.77 14.155.32.18.64.365.98.49 1.985.75 3.645-.365 3.665-2.485.025-2.89.005-5.775.005-8.665-.005-2.315-.005-4.625-.005-6.935z"
+            />
+            <path
+                id="rewind2"
+                d="M324.774 661.571c0-5.07.005-10.135-.005-15.205 0-.415-.045-.84-.155-1.235-.41-1.435-1.6-2.11-3.04-1.71-.45.125-.89.315-1.295.545-8.785 5.01-17.56 10.025-26.34 15.045-.25.145-.495.3-.72.48-1.615 1.27-1.635 2.97-.005 4.21.665.505 1.415.89 2.145 1.31 8.255 4.72 16.51 9.44 24.77 14.155.32.18.64.365.98.49 1.985.75 3.645-.365 3.665-2.485.025-2.89.005-5.775.005-8.665-.005-2.315-.005-4.625-.005-6.935z"
+            />
+        </g>
+    </g>
+</svg>

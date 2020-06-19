@@ -15,6 +15,10 @@
 ## Yellow Collection
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/Yellow%20Collection.png">
 
+## Pale Collection
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/Pale%20Collection.png">
+
+
 
 ### Animation Preview
 

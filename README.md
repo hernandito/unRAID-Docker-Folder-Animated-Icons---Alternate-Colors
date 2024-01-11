@@ -20,7 +20,7 @@
 
 ### UPDATE 1/8/24:
 Added Jellyfin Icon to collections
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/blob/master/Blue-Collection/png/blue-jellyfin.png width=80 height=80">
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/blob/master/Blue-Collection/png/blue-jellyfin.png" width=80 height=80">
 
 ### Animation Preview
 
@@ -38,3 +38,4 @@ Ground7 is offering to animate any new icon requests. However, he is not going t
 
 
 Enjoy.
+https://github.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/blob/master/Blue-Collection/png/blue-jellyfin.png?raw=true

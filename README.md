@@ -18,7 +18,9 @@
 ## Pale Collection
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/Pale-Collection.png">
 
-
+### UPDATE 1/8/24:
+Added Jellyfin Icon to collections
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/png/blue-jellyfin.png width=80 height=80">
 
 ### Animation Preview
 

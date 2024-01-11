@@ -19,8 +19,10 @@
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/Pale-Collection.png">
 
 ### UPDATE 1/8/24:
-Added Jellyfin Icon to collections
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/png/blue-jellyfin.png" width=60 height=60>
+
+Added Jellyfin Icon to collections.
+
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/png/blue-jellyfin.png" width=120 height=120>
 
 ### Animation Preview
 

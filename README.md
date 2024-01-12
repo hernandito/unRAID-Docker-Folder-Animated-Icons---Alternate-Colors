@@ -40,4 +40,3 @@ Ground7 is offering to animate any new icon requests. However, he is not going t
 
 
 Enjoy.
-https://github.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/blob/master/Blue-Collection/png/blue-jellyfin.png?raw=true

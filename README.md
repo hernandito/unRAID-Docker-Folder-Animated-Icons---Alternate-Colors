@@ -20,6 +20,7 @@
 
 ### UPDATE 1/8/24:
    -Added Jellyfin, Cooking, and Camera Icons to collections.
+   
    -Fixed png icons that were "empty"
 
 

@@ -19,10 +19,11 @@
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/Pale-Collection.png">
 
 ### UPDATE 1/8/24:
+   -Added Jellyfin, Cooking, and Camera Icons to collections.
+   -Fixed png icons that were "empty"
 
-Added Jellyfin, Cooking, and Camera Icons to collections.
 
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/png/blue-jellyfin.png" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/png/yellow-camera.png" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/png/orange-cooking.png" width=120 height=120>
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/png/blue-jellyfin.png" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/png/yellow-camera.png" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/png/orange-cooking.png" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Grey-Collection/png/grey-plex.png" width=120 height=120>
 
 ### Animation Preview
 

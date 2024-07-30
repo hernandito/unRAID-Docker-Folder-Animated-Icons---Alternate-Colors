@@ -39,7 +39,7 @@
 
 ### UPDATE 7/30/24:
    -Added AI icons to collections.
- <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/ai-icons.png">  
+ <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/ai-icons.png" height=60>  
 
 
 

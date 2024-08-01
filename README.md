@@ -41,8 +41,7 @@
    -Added AI icons to collections.
    
    
-	<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-ai.svg" width=120 height=120> 
-	<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-ai2.svg" width=120 height=120> 
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-ai.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-ai2.svg" width=120 height=120> 
  
 
 

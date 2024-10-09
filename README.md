@@ -19,6 +19,11 @@
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/Pale-Collection.png">
 
 
+### UPDATE 10/9/24:
+   -Added Drinking Glass to some of the collections.
+
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-glass-shot.svg" width=120 height=120>
+
 ### UPDATE 2/21/24:
    -Added Scraping and Tiny Media Manager Icons to some of the collections.
 

@@ -20,9 +20,9 @@
 
 
 ### UPDATE 10/21/24:
-   -Added Finances Icon.
+   -Added Finance and Chat Icons.
 
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-finances.svg" width=120 height=120>
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-finances.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/blue-chat.svg" width=120 height=120>
 
 
 ### UPDATE 10/9/24:

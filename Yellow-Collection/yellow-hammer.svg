@@ -1,0 +1,33 @@
+<svg id="hammer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 650 650" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" project-id="23daade69d5a474b8bd42ed716ad6345" export-id="c0e00112d2eb458dbb8a6a4421a77164" cached="false">
+<style><![CDATA[
+#hammer-u-hammer_to {animation: hammer-u-hammer_to__to 3000ms linear infinite normal forwards}@keyframes hammer-u-hammer_to__to { 0% {transform: translate(94.890511px,490.2px);animation-timing-function: cubic-bezier(0,0,0.58,1)} 20% {transform: translate(96.076642px,360.556009px)} 26.666667% {transform: translate(96.076642px,360.556009px);animation-timing-function: cubic-bezier(0,0,0.58,1)} 73.333333% {transform: translate(94.890511px,490.2px)} 100% {transform: translate(94.890511px,490.2px)}} #hammer-u-hammer_tr {animation: hammer-u-hammer_tr__tr 3000ms linear infinite normal forwards}@keyframes hammer-u-hammer_tr__tr { 0% {transform: rotate(-7.768358deg);animation-timing-function: cubic-bezier(0,0,0.58,1)} 20% {transform: rotate(45.830885deg)} 26.666667% {transform: rotate(45.830885deg);animation-timing-function: cubic-bezier(0,0,0.58,1)} 73.333333% {transform: rotate(-7.768358deg)} 100% {transform: rotate(-7.768358deg)}} #hammer-u-spark2_to {animation: hammer-u-spark2_to__to 3000ms linear infinite normal forwards}@keyframes hammer-u-spark2_to__to { 0% {transform: translate(393.79562px,558.667883px)} 16.666667% {transform: translate(393.79562px,558.667883px)} 46.666667% {transform: translate(222.399635px,502.326642px)} 100% {transform: translate(222.399635px,502.326642px)}} #hammer-u-spark2_ts {animation: hammer-u-spark2_ts__ts 3000ms linear infinite normal forwards}@keyframes hammer-u-spark2_ts__ts { 0% {transform: scale(0,0)} 16.666667% {transform: scale(0,0)} 30% {transform: scale(1,1)} 36.666667% {transform: scale(1,1)} 46.666667% {transform: scale(0,0)} 100% {transform: scale(0,0)}} #hammer-u-spark2 {animation: hammer-u-spark2_c_o 3000ms linear infinite normal forwards}@keyframes hammer-u-spark2_c_o { 0% {opacity: 0} 16.666667% {opacity: 0} 23.333333% {opacity: 0.74} 36.666667% {opacity: 1} 46.666667% {opacity: 0} 100% {opacity: 0}} #hammer-u-spark1_to {animation: hammer-u-spark1_to__to 3000ms linear infinite normal forwards}@keyframes hammer-u-spark1_to__to { 0% {transform: translate(561.034673px,545.355138px)} 16.666667% {transform: translate(561.034673px,545.355138px)} 40% {transform: translate(590.004845px,513.594891px)} 100% {transform: translate(590.004845px,513.594891px)}} #hammer-u-spark1_ts {animation: hammer-u-spark1_ts__ts 3000ms linear infinite normal forwards}@keyframes hammer-u-spark1_ts__ts { 0% {transform: scale(0,0)} 16.666667% {transform: scale(0,0)} 26.666667% {transform: scale(1,1)} 33.333333% {transform: scale(1,1)} 40% {transform: scale(0,0)} 100% {transform: scale(0,0)}} #hammer-u-spark1 {animation: hammer-u-spark1_c_o 3000ms linear infinite normal forwards}@keyframes hammer-u-spark1_c_o { 0% {opacity: 0} 16.666667% {opacity: 0;animation-timing-function: cubic-bezier(0,0,0.58,1)} 23.333333% {opacity: 1} 33.333333% {opacity: 1} 40% {opacity: 1} 100% {opacity: 1}} #hammer-s-path3_tr {animation: hammer-s-path3_tr__tr 3000ms linear infinite normal forwards}@keyframes hammer-s-path3_tr__tr { 0% {transform: translate(135.33781px,207.03926px) rotate(720deg);animation-timing-function: cubic-bezier(0.415,0.08,0.115,0.955)} 100% {transform: translate(135.33781px,207.03926px) rotate(439.480519deg)}} #hammer-s-path4_tr {animation: hammer-s-path4_tr__tr 3000ms linear infinite normal forwards}@keyframes hammer-s-path4_tr__tr { 0% {transform: translate(11.12px,29.9px) rotate(-720deg);animation-timing-function: cubic-bezier(0.415,0.08,0.115,0.955)} 100% {transform: translate(11.12px,29.9px) rotate(-439.480519deg)}}
+]]></style>
+
+<path id="hammer-u-background" d="M650,325.1c0,81.6,0,163.1,0,244.7c0,37.4-28.2,71.6-65,78.6-5.5,1-11.1,1.6-16.6,1.6-162.6,0-325.2,0-487.7,0C40.8,650,6,619.4,0.8,579.8c-.5-3.5-.8-7-.8-10.6c0-163,0-326,0-488.9C0,42.9,28.2,8.7,65,1.7c5.4-1,11.1-1.6,16.6-1.6C244.3,0,407,0,569.7,0c37.4,0,71.6,28.2,78.6,65c1,5.4,1.6,11.1,1.6,16.6.1,81.2.1,162.3.1,243.5v0Z" fill="#ffcb28"/>
+
+<g id="hammer-u-hammer_to" transform="translate(94.890511,490.2)">
+	<g id="hammer-u-hammer_tr" transform="rotate(-7.768358)">
+		<g id="hammer-u-hammer" transform="translate(-87.952271,-470.294786)">
+			<path id="hammer-u-hammer-handle" d="M242.6,222.4L14,449.5c-10,10-10.2,26.1-.3,36.3l58.7,60.4c10.4,10.7,27.6,10.4,37.6-.6L327,307.8l-84.4-85.4Z" fill="#01507b"/>
+	
+			<path id="hammer-u-hammer-head" d="M536.469117,292.08451C536.347143,255.549149,470,224.7,470,224.7c-11.3,10.5-28.8,5-32.9.7l-15.6-16.2c3.6-5.3,5.5-11.5,5.5-18c0-8.5-3.1-16.4-8.8-22.3l-40.9-42.6c-.2-.2-.7-.7-1.1-1l-8.6-9C349.8,97.8,333.2,80.5,329,76.1C293,38.5,161.4,36.9,146.5,36.8h-11.6v26.5c0,0,7.8,2.3,7.4,2.3c2.1.8,41.9,12.7,90.3,65.6c21.7,23.7,44.4,55.1,29.1,70.8-.3.4-2.2,2.4-8.9,9.4-.6.7-1,1.3-1.5,1.9l-18.9,19.5L319,316.3l23.1-23.9c.2-.1.2-.4.3-.5l12.2-12.7c.5.6,3.5,3.6,15.2,15.8c4.4,4.6,9.3,21.4-4.1,33.6c2.1,2.2,29.941147,69.991402,66.9,70.2s103.991092-70.18013,103.869117-106.71549Z" fill="#fff" stroke-width="12" stroke="#01507b"/>
+	
+			<path id="hammer-u-hammer-mid" d="M470,224.7c-11.3,10.5-28.8,5-32.9.7l-15.5-16.1-66.7,69.9c.6.6,3.6,3.7,15.2,15.8c4.4,4.6,9.3,21.4-4.1,33.6L470,224.7Z" fill="#01507b"/>
+		</g>
+	</g>
+</g>
+			
+<g id="hammer-u-spark2_to" transform="translate(393.79562,558.667883)">
+	<g id="hammer-u-spark2_ts" transform="scale(0,0)">
+		<polygon id="hammer-u-spark2" points="313,432.7 326.2,485.6 364.2,446.4 349.2,498.9 401.7,483.9 362.4,521.8 415.4,535.1 362.4,548.3 401.7,586.3 349.2,571.3 364.2,623.7 326.2,584.5 313,637.5 299.7,584.5 261.8,623.7 276.8,571.3 224.3,586.3 263.5,548.3 210.6,535.1 263.5,521.8 224.3,483.9 276.8,498.9 261.8,446.4 299.7,485.6" transform="translate(-313,-535.100006)" opacity="0" fill="#ff0000"  stroke-width="4" stroke="#ffffff"/>
+	</g>
+</g>
+
+<g id="hammer-u-spark1_to" transform="translate(561.034673,545.355138)">
+	<g id="hammer-u-spark1_ts" transform="scale(0,0)">
+		<polygon id="hammer-u-spark1" points="564,414 578.5,455 617.8,436.3 599.2,475.6 640.2,490.2 599.2,504.7 617.8,544 578.5,525.4 564,566.4 549.4,525.4 510.1,544 528.8,504.7 487.8,490.2 528.8,475.6 510.1,436.3 549.4,455" transform="translate(-564,-490.200012)" opacity="0" fill="#ff0000" stroke-width="3" stroke="#ffffff"/>
+	</g>
+</g>
+
+<rect id="hammer-s-rect1" style="mix-blend-mode:multiply" width="650" height="325" rx="0" ry="0" transform="translate(0 325)" opacity="0.8" fill="url(#hammer-s-rect1-fill)" stroke-width="0"/>
+</svg>

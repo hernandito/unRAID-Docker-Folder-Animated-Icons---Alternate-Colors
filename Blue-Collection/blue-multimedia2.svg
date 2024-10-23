@@ -101,8 +101,8 @@
             <path id="play" d="M265.53 752.59c-4.63 0-8.42-3.79-8.42-8.42V730.7c0-4.63 3.79-8.42 8.42-8.42s8.42 3.79 8.42 8.42v13.47c0 4.63-3.79 8.42-8.42 8.42z" fill="#f7e79d" stroke="none" stroke-width="1" />
         </g>
         <g id="pause_animation" opacity="0" fill="#01507b" fill-rule="evenodd" stroke="none" stroke-width="3" stroke-linejoin="round">
-            <rect id="pause1" width="70.945" height="15.135" rx="0" ry="7.567" transform="translate(281.888 638.515)" />
-            <rect id="pause2" width="70.945" height="15.135" rx="0" ry="7.567" transform="translate(281.73 668.515)" />
+            <rect id="pause1" width="15.135" height="70.945" rx="0" ry="7.567" transform="translate(296.888 628.515)" />
+            <rect id="pause2" width="15.135" height="70.945" rx="0" ry="7.567" transform="translate(326.73 628.515)" />
         </g>
         <g id="rewind_animation" opacity="0" fill="#01507b" stroke="none" stroke-width=".5">
             <path

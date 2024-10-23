@@ -1,10 +1,11 @@
 <svg id              ="e9vjSkzXm2Z1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 650 650" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" project-id="89b768e4ebd84304bbacd9f3f01357fb" export-id="170a23ccf7fc4d54b1056c0ed86cecdc" cached="false">
+
 <style><![CDATA[
 #e9vjSkzXm2Z3_ts {animation: e9vjSkzXm2Z3_ts__ts 6500ms linear infinite normal forwards}@keyframes e9vjSkzXm2Z3_ts__ts { 0% {transform: translate(146.5px,603px) scale(1,1);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 26.666667% {transform: translate(146.5px,603px) scale(1,3.123597);animation-timing-function: cubic-bezier(0.373314,0.195906,0.569691,1)} 66.666667% {transform: translate(146.5px,603px) scale(1,3.123597);animation-timing-function: cubic-bezier(0.373314,0.195906,0.569691,1)} 100% {transform: translate(146.5px,603px) scale(1,1)}} #e9vjSkzXm2Z4_ts {animation: e9vjSkzXm2Z4_ts__ts 6500ms linear infinite normal forwards}@keyframes e9vjSkzXm2Z4_ts__ts { 0% {transform: translate(325px,603px) scale(1,1);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 43.333333% {transform: translate(325px,603px) scale(1,4.395607);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 80% {transform: translate(325px,603px) scale(1,4.395607);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 100% {transform: translate(325px,603px) scale(1,1)}} #e9vjSkzXm2Z5_ts {animation: e9vjSkzXm2Z5_ts__ts 6500ms linear infinite normal forwards}@keyframes e9vjSkzXm2Z5_ts__ts { 0% {transform: translate(503.5px,603px) scale(1,1);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 53.333333% {transform: translate(503.5px,603px) scale(1,5.914452);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 86.666667% {transform: translate(503.5px,603px) scale(1,5.914452);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 100% {transform: translate(503.5px,603px) scale(1,1)}} #e9vjSkzXm2Z6_to {animation: e9vjSkzXm2Z6_to__to 6500ms linear infinite normal forwards}@keyframes e9vjSkzXm2Z6_to__to { 0% {transform: translate(-370.685082px,499.582377px);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 50% {transform: translate(334.504053px,281.817622px);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 70% {transform: translate(334.504053px,281.817622px);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 100% {transform: translate(-370.685082px,499.582377px)}} #e9vjSkzXm2Z6_tr {animation: e9vjSkzXm2Z6_tr__tr 6500ms linear infinite normal forwards}@keyframes e9vjSkzXm2Z6_tr__tr { 0% {transform: rotate(14.645514deg);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 50% {transform: rotate(-28.995728deg);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 73.333333% {transform: rotate(-28.995728deg);animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 100% {transform: rotate(0deg)}} #e9vjSkzXm2Z8 {animation: e9vjSkzXm2Z8_c_o 6500ms linear infinite normal forwards}@keyframes e9vjSkzXm2Z8_c_o { 0% {opacity: 0} 53.333333% {opacity: 0;animation-timing-function: cubic-bezier(0,0,0.58,1)} 63.333333% {opacity: 1;animation-timing-function: cubic-bezier(0.42,0,0.58,1)} 73.333333% {opacity: 0} 100% {opacity: 0}} #e9vjSkzXm2Z15_tr {animation: e9vjSkzXm2Z15_tr__tr 6500ms linear infinite normal forwards}@keyframes e9vjSkzXm2Z15_tr__tr { 0% {transform: translate(135.33781px,207.03926px) rotate(720deg);animation-timing-function: cubic-bezier(0.415,0.08,0.115,0.955)} 100% {transform: translate(135.33781px,207.03926px) rotate(439.480519deg)}} #e9vjSkzXm2Z16_tr {animation: e9vjSkzXm2Z16_tr__tr 6500ms linear infinite normal forwards}@keyframes e9vjSkzXm2Z16_tr__tr { 0% {transform: translate(11.12px,29.9px) rotate(-720deg);animation-timing-function: cubic-bezier(0.415,0.08,0.115,0.955)} 100% {transform: translate(11.12px,29.9px) rotate(-439.480519deg)}}
 ]]></style>
 
 
-<!-- This is the background -->
+
 
 <g clip-path="url(#clip)">
 <path d              ="M650,325.1c0,81.6,0,163.1,0,244.7c0,37.4-28.2,71.6-65,78.6-5.5,1-11.1,1.6-16.6,1.6-162.6,0-325.2,0-487.7,0C40.8,650,6,619.4,0.8,579.8c-.5-3.5-.8-7-.8-10.6c0-163,0-326,0-488.9C0,42.9,28.2,8.7,65,1.7c5.4-1,11.1-1.6,16.6-1.6C244.3,0,407,0,569.7,0c37.4,0,71.6,28.2,78.6,65c1,5.4,1.6,11.1,1.6,16.6.1,81.2.1,162.3.1,243.5v0Z" fill="#ffcb28"/>
@@ -14,8 +15,6 @@
 </g>
 
 
-
-<!-- This are the bars -->
 <g id="e9vjSkzXm2Z3_ts" transform="translate(146.5,603) scale(1,1)">
 	<rect width="140" height="60" rx="0" ry="0" transform="translate(-70,-60)" fill="#01507b"/>
 </g>
@@ -26,7 +25,7 @@
 	<rect width="140" height="89.5" rx="0" ry="0" transform="translate(-70,-89.5)" fill="#01507b"/>
 </g>
 
-<!-- This is the Arrow-->	
+
 <g id="e9vjSkzXm2Z6_to" transform="translate(-370.685082,499.582377)" >
 	<g id="e9vjSkzXm2Z6_tr" transform="rotate(14.645514)">
 		<g transform="translate(365.279114,-434.71077)">
@@ -35,7 +34,7 @@
 	</g>
 </g>
 
-<!-- This is the Star-->	
+
 <polygon id="e9vjSkzXm2Z8" points="0,-144.306402 42.410587,-58.373166 137.243544,-44.593131 68.621772,22.296565 84.821175,116.746331 0,72.153201 -84.821175,116.746331 -68.621772,22.296565 -137.243544,-44.593131 -42.410587,-58.373166 0,-144.306402" transform="matrix(-.34026 0.559242-.559242-.34026 155.387775 129.743218)" opacity="0" fill="#d90000" stroke-width="0"/>
 
 <rect style="mix-blend-mode:multiply" width="650" height="325" rx="0" ry="0" transform="translate(0 325)" opacity="0.8" fill="url(#e9vjSkzXm2Z9-fill)" stroke-width="0"/>

@@ -1,0 +1,53 @@
+<svg id="off-disabled" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 650 650" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" project-id="a735b0df062a4986a1aba2ab60529035" export-id="e4644fe335764abe943ac6be2a7d31ed" cached="false">
+<style><![CDATA[
+#off-disabled-u-switch-inside-main {animation: off-disabled-u-switch-inside-main_f_p 5000ms linear infinite normal forwards}@keyframes off-disabled-u-switch-inside-main_f_p { 0% {fill: #ffca28} 9.666667% {fill: #ffca28} 10.666667% {fill: #cccccc;animation-timing-function: cubic-bezier(0.42,0,1,1)} 81.666667% {fill: #cccccc} 82.666667% {fill: #ffca28} 100% {fill: #ffca28}} #off-disabled-u-switch-inside-shadow {animation: off-disabled-u-switch-inside-shadow_f_p 5000ms linear infinite normal forwards}@keyframes off-disabled-u-switch-inside-shadow_f_p { 0% {fill: 
+
+#555555} 9.666667% {fill: 
+#555} 10.666667% {fill: #555} 81.666667% {fill: 
+#555} 82.666667% {fill: #555} 100% {fill: #555}} #off-disabled-u-button_to {animation: off-disabled-u-button_to__to 5000ms linear infinite normal forwards}@keyframes off-disabled-u-button_to__to { 0% {transform: translate(202.191269px,307.500008px);animation-timing-function: cubic-bezier(0,0,0.58,1)} 7.333333% {transform: translate(443.808732px,307.500008px);animation-timing-function: cubic-bezier(0.42,0,1,1)} 72.333333% {transform: translate(443.808732px,307.500008px);animation-timing-function: cubic-bezier(0.42,0,1,1)} 82.333333% {transform: translate(202.191269px,307.500008px)} 100% {transform: translate(202.191269px,307.500008px)}} #off-disabled-u-groove3 {animation: off-disabled-u-groove3_f_p 5000ms linear infinite normal forwards}@keyframes off-disabled-u-groove3_f_p { 0% {fill: 
+#ffca28} 9.666667% {fill: 
+#ffca28} 10.666667% {fill: #737171} 81.666667% {fill: #737171} 82.333333% {fill: 
+#ffca28} 100% {fill: 
+#ffca28}} #off-disabled-u-groove2 {animation: off-disabled-u-groove2_f_p 5000ms linear infinite normal forwards}@keyframes off-disabled-u-groove2_f_p { 0% {fill: 
+#ffca28} 9.666667% {fill: 
+#ffca28} 10.666667% {fill: #737171} 81.666667% {fill: #737171} 82.333333% {fill: 
+#ffca28} 100% {fill: 
+#ffca28}} #off-disabled-u-groove1 {animation: off-disabled-u-groove1_f_p 5000ms linear infinite normal forwards}@keyframes off-disabled-u-groove1_f_p { 0% {fill: 
+#ffca28} 9.666667% {fill: 
+#ffca28} 10.666667% {fill: #737171} 81.666667% {fill: #737171} 82.333333% {fill: 
+#ffca28} 100% {fill: 
+#ffca28}} #off-disabled-s-path3_tr {animation: off-disabled-s-path3_tr__tr 5000ms linear infinite normal forwards}@keyframes off-disabled-s-path3_tr__tr { 0% {transform: translate(135.33781px,207.03926px) rotate(720deg);animation-timing-function: cubic-bezier(0.415,0.08,0.115,0.955)} 100% {transform: translate(135.33781px,207.03926px) rotate(439.480519deg)}} #off-disabled-s-path4_tr {animation: off-disabled-s-path4_tr__tr 5000ms linear infinite normal forwards}@keyframes off-disabled-s-path4_tr__tr { 0% {transform: translate(11.12px,29.9px) rotate(-720deg);animation-timing-function: cubic-bezier(0.415,0.08,0.115,0.955)} 100% {transform: translate(11.12px,29.9px) rotate(-439.480519deg)}}
+]]></style>
+
+
+<path id="off-disabled-u-background" d="M650,325.1c0,81.6,0,163.1,0,244.7c0,37.4-28.2,71.6-65,78.6-5.5,1-11.1,1.6-16.6,1.6-162.6,0-325.2,0-487.7,0C40.8,650,6,619.4,0.8,579.8c-.5-3.5-.8-7-.8-10.6c0-163,0-326,0-488.9C0,42.9,28.2,8.7,65,1.7c5.4-1,11.1-1.6,16.6-1.6C244.3,0,407,0,569.7,0c37.4,0,71.6,28.2,78.6,65c1,5.4,1.6,11.1,1.6,16.6.1,81.2.1,162.3.1,243.5v0Z" fill="#e1f3fd"/>
+
+<g id="off-disabled-u-switch-base" transform="translate(5 0)">
+	<path id="off-disabled-u-switch-base-sides" d="M189.1,167.9C102.3,167.9,32,240.5,32,335.4C32,427.6,102.3,503,189.1,503h130.9h130.9C537.7,503,608,427.6,608,335.4c0-95-70.3-167.6-157.1-167.6h-130.9-130.9v.1Z" fill="#555555" stroke-width="7" stroke="#666666"/>
+
+	<path id="off-disabled-u-switch-base-top" d="M189.1,140C102.3,140,32,212.6,32,307.5c0,92.2,70.3,167.6,157.1,167.6h130.9h130.9c86.8,0,157.1-75.4,157.1-167.6c0-95-70.3-167.6-157.1-167.6h-130.9-130.9v.1Z" fill="#666666" stroke-width="7" stroke="#bbbbbb"/>
+
+	<path id="off-disabled-u-switch-inside-main" d="M189.1,195.8c-57.8,0-104.7,50.3-104.7,111.7s46.9,111.7,104.7,111.7h130.9h130.9c57.8,0,104.7-50.3,104.7-111.7s-46.9-111.7-104.7-111.7h-130.9-130.9Z" transform="translate(.060965 0)" fill="#e74c3c"  stroke-width="9" stroke="#bbbbbb"/>
+
+	<path id="off-disabled-u-switch-inside-shadow" d="M189.1,195.8c-57.8,0-104.7,50.3-104.7,111.7c0,2.8,1.1,8.4,1.6,14c6.5-55.9,49.7-97.7,103.1-97.7h130.9h130.9c53.4,0,96.6,41.9,103.1,97.7.5-5.6,1.6-11.2,1.6-14c0-61.4-46.9-111.7-104.7-111.7h-130.9-130.9Z" fill="#555555"/>
+</g>
+
+<g id="off-disabled-u-button_to" transform="translate(202.191269,307.500008)">
+	<g id="off-disabled-u-button" transform="translate(-437.791245,-307.500008)">
+		<path id="off-disabled-u-button-sides" d="M320.6,288l-.6,33.5c-1,53.1,41,97.7,91.6,97.7h39.3c57.8,0,104.7-50.3,104.7-111.7c0-11.2-1.9-19.5-4.1-27.9L320.6,288Z" fill="#555555"/>
+		
+		<path id="off-disabled-u-button-top" d="M411.6,195.8c-50.6,0-91.6,41.9-91.6,97.7c0,53.1,41,97.7,91.6,97.7h52.4c50.6,0,91.6-44.7,91.6-97.7c0-55.9-41-97.7-91.6-97.7h-52.4Z" fill="#ccc" stroke-width="12" stroke="#fff"/>
+		
+		<g id="off-disabled-u-switch-grooves" transform="translate(0 5)"><path id="off-disabled-u-groove3" d="M385.4,223.7c-7.2,0-13.1,2.8-13.1,11.2v89.4c0,5.6,5.9,11.2,13.1,11.2s13.1-5.6,13.1-11.2v-89.4c0-8.4-5.8-11.2-13.1-11.2Z" fill="#ffca28"/>
+			<path id="off-disabled-u-groove2" d="M437.8,223.7c-7.2,0-13.1,2.8-13.1,11.2v89.4c0,5.6,5.9,11.2,13.1,11.2s13.1-5.6,13.1-11.2v-89.4c0-8.4-5.9-11.2-13.1-11.2Z" fill="#ffca28"/>
+
+			<path id="off-disabled-u-groove1" d="M490.2,223.7c-7.2,0-13.1,2.8-13.1,11.2v89.4c0,5.6,5.9,11.2,13.1,11.2s13.1-5.6,13.1-11.2v-89.4c0-8.4-5.9-11.2-13.1-11.2Z" fill="#ffca28"/>
+		</g>
+	</g>
+</g>
+
+
+
+
+
+</svg>

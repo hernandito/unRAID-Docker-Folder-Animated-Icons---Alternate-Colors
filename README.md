@@ -22,6 +22,13 @@
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Plain-Grey-Collection/Plain-Grey-Collection.png">
 
 
+
+### UPDATE 10/29/24:
+   -Added Off and Powertool Icons.
+
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-powertool.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-off.svg" width=120 height=120>
+
+
 ### UPDATE 10/21b/24:
    -Added Finance, Tools, Chat (a), and Downloads-2 (b) Icons.
 

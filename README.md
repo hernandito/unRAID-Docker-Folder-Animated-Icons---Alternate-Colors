@@ -22,6 +22,13 @@
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Plain-Grey-Collection/Plain-Grey-Collection.png">
 
 
+### UPDATE 11/1/24:
+   -Added the below Icons (only to the Pale Theme). Since the latest icons have been designed with a little more detail, these new icons are slight improvements to existing icons. 
+
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-ai3.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-ai3a.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-productivity2.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-multimedia3.svg" width=120 height=120>
+
+
+
 
 ### UPDATE 10/29/24:
    -Added Off and Powertool Icons.

@@ -21,7 +21,10 @@
 
 
 
+### UPDATE 11/4/24:
+   -Added refined versions for the below:.
 
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-backup2.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dash2.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-ai3a.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-pirate2.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-productivity2.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-settings2.svg" width=120 height=120>
 
 
 ### UPDATE 10/29/24:

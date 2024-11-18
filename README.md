@@ -20,7 +20,6 @@
 ## Yellow Collection 
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/Yellow%20Collection.png">
 
-
 ### UPDATES 11/4/24 ~ 11/18/24:
    -Added refined and alternative versions for the below:
 

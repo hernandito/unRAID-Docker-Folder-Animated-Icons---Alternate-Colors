@@ -29,7 +29,7 @@ If you have some beginner coding skills, in Notepad++ you can open the Pale coll
 
 
 ### UPDATE 10/29/24:
-   -Added Off and Powertool Icons.
+   -Added Off and Power Tool Icons.
 
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-powertool.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-off.svg" width=120 height=120>
 

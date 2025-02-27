@@ -127,7 +127,7 @@
                     <g><ellipse fill="#fff" rx="276.1" ry="276.1" transform="translate(325 340.5)"></ellipse></g>
                 </g>
                 <g style="animation-name: eaf-1517f-2, eaf-1517f-3, eaf-1517f-4; animation-composition: replace, add, add;">
-                    <ellipse fill="#fefadf" stroke="#fff" stroke-width="16" stroke-miterlimit="10" rx="267" ry="267" transform="translate(325 309.5)"></ellipse>
+                    <ellipse fill="#f3582c" stroke="#fff" stroke-width="16" stroke-miterlimit="10" rx="267" ry="267" transform="translate(325 309.5)"></ellipse>
                     <g style="filter: drop-shadow(rgb(191, 191, 191) 9px 9px 2px);">
                         <path
                             fill="#fff"

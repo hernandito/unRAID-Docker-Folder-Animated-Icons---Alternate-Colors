@@ -1171,13 +1171,13 @@ Please note that a massive amount of new and refined icons have been added since
 
 ## Animation Preview
 
-<p align="left">
+<p align="center">
    <img src="./Blue-Collection/blue-security.svg" width=100 height=100>
    <img src="./Grey-Collection/grey-dash.svg" width=100 height=100>
-   <img src="./Orange-Collection/orange-code.svg" width=100 height=100>
-   <img src="./Yellow-Collection/yellow-grafana.svg" width=100 height=100>
    <img src="./Grey-Collection/grey-youtube.svg" width=100 height=100>
+   <img src="./Orange-Collection/orange-code.svg" width=100 height=100>
    <img src="./Orange-Collection/orange-plex.svg" width=100 height=100>
+   <img src="./Yellow-Collection/yellow-grafana.svg" width=100 height=100>
    <img src="./Yellow-Collection/yellow-productivity.svg" width=100 height=100>
 </p>
 

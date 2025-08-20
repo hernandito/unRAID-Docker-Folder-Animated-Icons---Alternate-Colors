@@ -1,91 +1,1189 @@
 # Animated "Docker-Folder" Icons for unRAID
 
+## Description
 
-### Preview
-Please note that a massive amount of new and refined icons have been added since the begining of November 2024. These new icons exist ONLY in the Pale, Blue and Yellow Collection. If you have some beginner coding skills, in Notepad++ you can open the Pale collection icons you like, and change the hex color codes. I recommend installing the "Quick Color Picker +" plugin. You can use the same colors of your preferred theme, and replace the colors in the pale theme. It's usually pretty simple (except the Orange and Grey collections which take a little more work that just simple substitutions of the hex color codes). For ease, you will need to un-minify the code for better legibility of he code. Simply paste the entire code at https://unminify.com/ and paste it back into Notepad++.
-
-## Pale Collection
- <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-adult.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-adult2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-ai.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-ai2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-ai3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-ai3a.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-arrs.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-arrs2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-audio.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-audio2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-audio3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-audio4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-backup.svg" width=64 height=64> <img  src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-backup2.svg" width=64 height=64> <img  src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-backup3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-binoculars.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-binoculars2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-books.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-books2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-books3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-books4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-books5.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-broadcast.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-camera.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-camera2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-camera2a.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chat.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chat2a.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chat3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-checklist.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chrono.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chrono2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chrono3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cloud.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cloud2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cloud3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-code.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-code2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-code3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-control.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-control2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-control3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cooking.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cooking2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cooking3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cooking4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cooking4veg.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-community.svg" width=64 height=64>  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-community2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-crypto.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-crypto2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-crypto3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-crypto4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dash.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dash2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dash2a.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dash3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dash3a.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-database.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-database2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-database3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-database4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-debrid.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-debrid2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-debrid2a.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dependencies.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dependencies2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-discord.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-discord2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-docker.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-docker2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-downloads.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-downloads2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-drivers.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-drivers2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-emby.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-emby2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-eye.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-eye2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-finances.svg" width=64 height=64><img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-fun.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-gaming.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-gaming2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-gaming3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-gaming4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-gaming5.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-gaming6.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-glass-shot.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-glass-shot2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-globe.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-globe2a.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-globe3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-grafana.svg" width=64 height=64>  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-grafana2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-grafana3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-grafana4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-graph.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-hacker.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-hammer.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-home-automation.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-homeautomation1.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-homeautomation2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-homeautomation3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-homeautomation4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-homeautomation4a.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-index.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-jellyfin.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-jellyfin2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-kodi.svg" width=64 height=64>  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-livetv.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-malware.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-multimedia.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-movies.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-multimedia2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-multimedia3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-multimedia4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-music.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-music2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-music2a.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-network.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-network2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-network3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-newspaper.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-nginx.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-nginx2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-nzb.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-nzb2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-nzb3a.svg" width=64 height=64>  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-off.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-off2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-off3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-other.svg" width=64 height=64>  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-other2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-pirate.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-pirate2.svg" width=64 height=64>  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-pirate3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plex.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plex2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plex3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plugin.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plugin2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plugin3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plugin4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-powertool.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-privacy.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-productivity.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-productivity2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-productivity3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-productivity4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-projectmanagement.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-proxy.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-python.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-radar.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-reel.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-requests.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-requests2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-robot.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-robot2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-rss.svg" width=64 height=64>  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-rust.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-scrape.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-search.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-search2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-security.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-settings.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-settings2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-shield.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-ship.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-steam.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-steam2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-streaming.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-synchthing.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-synchthing2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-tentative.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-testing.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-testing2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-tmm.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-torrent.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-transfer.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-transfer2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-trash.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-trash2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-ubiquiti.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-vm.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-vm2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-vm3.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-vpn.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-vpn2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-vpn2a.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-webcam.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-webcam2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-wiki.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-wiki2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-wrench2.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-world.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-youtube.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-youtube4.svg" width=64 height=64> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-youtube5.svg" width=64 height=64>
-
-## Blue Collection
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/Blue%20Collection.png">
-
-## Grey Collection
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Grey-Collection/Grey%20Collection.png">
-
-## Orange Collection
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/Orange%20Collection.png">
-
-## Yellow Collection 
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/Yellow%20Collection.png">
-
-### MASSIVE UPDATES 11/4/24 ~ 11/18/24:
-   -Added refined and alternative versions for the below:
-   
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-backup2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-backup3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dash2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dash2a.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dash3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dash3a.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-ai3a.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-pirate2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-pirate3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-productivity2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-productivity3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-productivity4.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-settings2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-trash2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plex3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-control2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-control3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cloud2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cloud3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-debrid2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-debrid2a.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-globe2a.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-globe3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-eye2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-graph.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-database2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-database3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-database4.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-nzb2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-nzb3a.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-reel.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-code2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-audio2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-audio3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-audio4.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-multimedia4.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-community.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-community2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-crypto.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-crypto2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-crypto3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-crypto4.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plugin.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plugin2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plugin3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-plugin4.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-malware.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-drivers.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-drivers2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-other.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-other2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-testing.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-testing2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-kodi.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-privacy.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-homeautomation1.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-homeautomation3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-homeautomation4.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-homeautomation4a.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-arrs.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-arrs2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-vpn2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-vpn2a.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chat2a.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-webcam.svg" width=82 height=82>  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-webcam2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-livetv.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-rss.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-requests.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-requests2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-binoculars2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-hacker.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-shield.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-gaming2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-gaming3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-gaming4.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-gaming5.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-gaming6.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-code3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-music2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-music2a.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-jellyfin2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-grafana2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-grafana3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-grafana3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chat3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-projectmanagement.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-synchthing.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-synchthing2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-transfer.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-transfer2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-off2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-off3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-dependencies2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-wrench2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-glass-shot2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-newspaper.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-network2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-network3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-search2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-fun.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-radar.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-camera2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-camera2a.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-vm.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-vm2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-vm3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cooking2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cooking3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cooking4.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cooking4veg.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-index.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-discord.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-discord2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-docker.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-docker2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-checklist.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-emby.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-emby2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-streaming.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-rust.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-python.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-proxy.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-adult.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-adult2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-movies.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-steam.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-steam2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-wiki.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-wiki2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-broadcast.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-robot.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-robot2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chrono.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chrono2.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chrono3.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-books4.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-books5.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-nginx.svg" width=82 height=82> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-nginx2.svg" width=82 height=82>
-
-### UPDATE 1/6/25:
-   -Added new Chronometer Icon that actually ticks seconds accurately.
-   
-   <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-chrono.svg" width=100 height=100>
-
-
-### UPDATE 10/29/24:
-   -Added Off and Power Tool Icons.
-
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-powertool.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-off.svg" width=120 height=120>
-
-
-### UPDATE 10/21b/24:
-   -Added Finance, Tools, Chat (a), and Downloads-2 (b) Icons.
-
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-finances.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/blue-chat.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-hammer.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-downloads2.svg" width=120 height=120>
-
-
-### UPDATE 10/9/24:
-   -Added Drinking Glass to some of the collections.
-
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-glass-shot.svg" width=120 height=120>
-
-### UPDATE 2/21/24:
-   -Added Scraping and Tiny Media Manager Icons to some of the collections.
-
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/blue-scraper.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-tmm.svg" width=120 height=120> 
-
-
-
-### UPDATE 1/8/24:
-   -Added Jellyfin, Cooking, and Camera Icons to collections.
-   
-   -Fixed png icons that were "empty"
-
-
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/blue-jellyfin.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-camera.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-cooking.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Grey-Collection/grey-plex.svg" width=120 height=120>
-
-
-
-### UPDATE 7/30/24:
-   -Added AI icons to collections.
-   
-   
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-ai.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-ai2.svg" width=100 height=100> 
- 
-
-
-
-### Animation Preview
-
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/blue-security.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Grey-Collection/grey-dash.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-code.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-grafana.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Grey-Collection/grey-youtube.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-plex.svg" width=100 height=100>  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-productivity.svg" width=100 height=100>
-
-### Description
 These are alternative color versions of **[ground7's](https://github.com/ground7/unraid-animated-svgs)** collection of animated .svg icons. 
 
 These are meant to be used with **[Guildart's](https://forums.unraid.net/topic/89702-plugin-docker-folder/?tab=comments#comment-832166&searchlight=1)** great unRAID plugin Docker Folders.
 
+## Preview
 
-### Requests
+Please note that a massive amount of new and refined icons have been added since the begining of November 2024. These new icons exist ONLY in the Pale, Blue and Yellow Collection. If you have some beginner coding skills, in Notepad++ you can open the Pale collection icons you like, and change the hex color codes. I recommend installing the "Quick Color Picker +" plugin. You can use the same colors of your preferred theme, and replace the colors in the pale theme. It's usually pretty simple (except the Orange and Grey collections which take a little more work that just simple substitutions of the hex color codes). For ease, you will need to un-minify the code for better legibility of he code. Simply paste the entire code at [unminify.com](https://unminify.com) and paste it back into Notepad++.
+
+### Blue Collection
+
+<p align="center">
+   <img src="./Blue-Collection/blue-adult.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-adult2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-ai.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-ai2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-ai3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-ai3a.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-arrs.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-arrs2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-audio.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-audio2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-audio3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-audio4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-backup.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-backup2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-backup3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-binoculars.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-binoculars2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-books.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-books2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-books3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-books4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-books5.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-broadcast.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-camera.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-camera2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-camera2a.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-chat.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-chat2a.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-chat3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-checklist.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-chrono.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-chrono2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-chrono3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-cloud.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-cloud2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-cloud3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-code.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-code2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-code3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-community.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-community2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-control.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-control2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-control3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-cooking.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-cooking2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-cooking3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-cooking4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-cooking4veg.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-crypto.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-crypto2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-crypto3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-crypto4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-dash.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-dash2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-dash3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-dash3a.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-database.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-database2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-database3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-database4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-debrid2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-debrid2a.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-dependencies.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-dependencies2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-discord.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-discord2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-docker.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-docker2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-downloads.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-downloads2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-drivers.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-drivers2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-emby.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-emby2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-eye.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-eye2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-finances.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-fun.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-gaming.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-gaming2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-gaming3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-gaming4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-gaming5.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-glass-shot.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-glass-shot2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-globe.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-globe2a.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-globe3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-grafana.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-grafana2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-grafana3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-grafana4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-graph.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-hacker.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-hammer.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-home-automation.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-home-automation1.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-homeautomation2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-homeautomation3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-homeautomation4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-homeautomation4a.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-index.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-jellyfin.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-jellyfin2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-kodi.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-livetv.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-malware.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-movies.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-multimedia.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-multimedia2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-multimedia3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-multimedia4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-music.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-music2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-music2a.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-network.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-network2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-network3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-newspaper.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-nginx.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-nginx2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-nzb.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-nzb2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-nzb3a.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-off.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-off2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-off3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-other.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-other2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-pirate.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-pirate2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-pirate3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-plex.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-plex2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-plex3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-plugin.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-plugin2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-plugin3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-plugin4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-powertool.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-privacy.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-productivity.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-productivity3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-productivity4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-projectmanagement.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-proxy.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-python.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-radar.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-reel.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-requests.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-requests2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-robot.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-robot2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-rss.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-rust.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-scraper.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-search.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-search2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-security.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-settings.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-settings2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-shield.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-ship.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-steam.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-steam2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-streaming.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-synchthing.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-synchthing2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-tentative.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-testing.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-testing2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-tmm.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-torrent.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-transfer.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-transfer2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-trash.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-trash2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-ubiquiti.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-vm.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-vm2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-vm3.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-vpn.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-vpn2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-vpn2a.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-webcam.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-webcam2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-wiki.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-wiki2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-world.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-wrench2.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-youtube.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-youtube4.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-youtube5.svg" width=64 height=64>
+   <img src="./Blue-Collection/blue-youtube6.svg" width=64 height=64>
+</p>
+
+### Grey Collection
+
+<p align="center">
+   <img src="./Grey-Collection/grey-ai.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-ai2.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-audio.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-backup.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-binoculars.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-books.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-books2.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-books3.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-camera.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-chat.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-cloud.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-code.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-control.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-cooking.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-dash.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-database.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-dependencies.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-downloads.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-eye.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-finances.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-gaming.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-globe.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-grafana.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-hammer.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-home-automation.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-homeautomation2.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-jellyfin.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-multimedia.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-multimedia2.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-music.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-network.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-nzb.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-pirate.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-plex.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-productivity.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-search.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-security.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-settings.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-ship.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-tentative.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-torrent.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-vpn.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-youtube.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-youtube4.svg" width=64 height=64>
+   <img src="./Grey-Collection/grey-youtube5.svg" width=64 height=64>
+</p>
+
+### Orange Collection
+
+<p align="center">
+   <img src="./Orange-Collection/orange-ai.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-ai2.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-audio.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-backup.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-binoculars.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-books.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-books2.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-books3.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-camera.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-chat.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-cloud.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-code.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-control.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-cooking.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-dash.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-database.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-dependencies.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-downloads.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-eye.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-finances.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-gaming.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-globe.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-grafana.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-hammer.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-home-automation.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-homeautomation2.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-jellyfin.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-multimedia.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-multimedia2.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-music.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-network.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-nzb.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-pirate.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-plex.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-productivity.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-scrape.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-search.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-security.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-settings.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-ship.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-tentative.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-tmm.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-torrent.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-vpn.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-youtube.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-youtube4.svg" width=64 height=64>
+   <img src="./Orange-Collection/orange-youtube5.svg" width=64 height=64>
+</p>
+
+### Orange Flat Collection
+
+<p align="center">
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-adult.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-adult2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-ai.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-ai2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-ai3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-ai3a.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-arrs.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-arrs2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-audio.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-audio2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-audio3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-audio4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-backup.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-backup2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-backup3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-binoculars.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-binoculars2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-books.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-books2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-books3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-books4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-books5.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-broadcast.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-camera.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-camera2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-camera2a.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-chat.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-chat2a.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-chat3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-checklist.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-chrono.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-chrono2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-chrono3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-cloud.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-cloud2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-cloud3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-code.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-code2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-code3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-community.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-community2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-control.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-control2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-control3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-cooking.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-cooking2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-cooking3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-cooking4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-cooking4veg.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-crypto.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-crypto2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-crypto3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-crypto4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-dash.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-dash2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-dash3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-dash3a.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-database.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-database2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-database3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-database4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-debrid2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-debrid2a.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-dependencies.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-dependencies2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-discord.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-discord2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-docker.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-docker2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-downloads.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-downloads2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-drivers.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-drivers2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-emby.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-emby2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-eye.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-eye2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-finances.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-fun.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-gaming.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-gaming2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-gaming3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-gaming4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-gaming5.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-glass-shot.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-glass-shot2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-globe.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-globe2a.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-globe3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-grafana.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-grafana2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-grafana3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-grafana4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-graph.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-hacker.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-hammer.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-home-automation.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-home-automation1.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-homeautomation2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-homeautomation3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-homeautomation4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-homeautomation4a.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-index.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-jellyfin.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-jellyfin2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-kodi.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-livetv.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-malware.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-movies.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-multimedia.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-multimedia2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-multimedia3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-multimedia4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-music.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-music2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-music2a.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-network.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-network2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-network3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-newspaper.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-nginx.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-nginx2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-nzb.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-nzb2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-nzb3a.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-off.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-off2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-off3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-other.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-other2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-pirate.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-pirate2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-pirate3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-plex.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-plex2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-plex3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-plugin.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-plugin2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-plugin3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-plugin4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-powertool.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-privacy.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-productivity.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-productivity3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-productivity4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-projectmanagement.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-proxy.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-python.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-radar.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-reel.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-requests.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-requests2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-robot.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-robot2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-rss.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-rust.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-scraper.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-search.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-search2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-security.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-settings.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-settings2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-shield.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-ship.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-steam.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-steam2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-streaming.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-synchthing.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-synchthing2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-tentative.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-testing.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-testing2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-tmm.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-torrent.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-transfer.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-transfer2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-trash.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-trash2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-ubiquiti.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-vm.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-vm2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-vm3.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-vpn.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-vpn2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-vpn2a.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-webcam.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-webcam2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-wiki.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-wiki2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-world.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-wrench2.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-youtube.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-youtube4.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-youtube5.svg" width=64 height=64>
+   <img src="./Orange-Flat-Collection-WIP/orange-flat-youtube6.svg" width=64 height=64>
+</p>
+
+### Pale Collection
+
+<p align="center">
+   <img src="./Pale-Collection/pale-adult.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-adult2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-ai.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-ai2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-ai3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-ai3a.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-arrs.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-arrs2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-audio.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-audio2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-audio3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-audio4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-backup.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-backup2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-backup3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-binoculars.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-binoculars2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-books.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-books2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-books3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-books4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-books5.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-broadcast.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-camera.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-camera2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-camera2a.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-chat.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-chat2a.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-chat3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-checklist.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-chrono.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-chrono2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-chrono3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-cloud.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-cloud2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-cloud3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-code.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-code2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-code3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-community.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-community2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-control.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-control2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-control3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-cooking.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-cooking2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-cooking3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-cooking4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-cooking4veg.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-crypto.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-crypto2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-crypto3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-crypto4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-dash.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-dash2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-dash2a.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-dash3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-dash3a.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-database.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-database2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-database3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-database4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-debrid.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-debrid2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-debrid2a.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-dependencies.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-dependencies2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-discord.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-discord2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-docker.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-docker2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-downloads.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-downloads2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-drivers.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-drivers2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-emby.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-emby2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-eye.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-eye2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-finances.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-fun.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-gaming.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-gaming2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-gaming3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-gaming4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-gaming5.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-gaming6.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-glass-shot.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-glass-shot2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-globe.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-globe2a.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-globe3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-grafana.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-grafana2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-grafana3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-grafana4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-graph.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-hacker.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-hammer.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-home-automation.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-homeautomation1.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-homeautomation2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-homeautomation3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-homeautomation4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-homeautomation4a.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-index.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-jellyfin.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-jellyfin2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-kodi.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-livetv.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-malware.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-movies.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-multimedia.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-multimedia2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-multimedia3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-multimedia4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-music.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-music2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-music2a.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-network.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-network2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-network3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-newspaper.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-nginx.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-nginx2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-nzb.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-nzb2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-nzb3a.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-off.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-off2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-off3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-other.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-other2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-pirate.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-pirate2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-pirate3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-plex.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-plex2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-plex3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-plugin.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-plugin2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-plugin3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-plugin4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-powertool.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-privacy.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-productivity.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-productivity2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-productivity3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-productivity4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-projectmanagement.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-proxy.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-python.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-radar.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-reel.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-requests.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-requests2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-robot.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-robot2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-rss.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-rust.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-scrape.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-search.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-search2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-security.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-settings.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-settings2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-shield.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-ship.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-steam.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-steam2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-streaming.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-synchthing.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-synchthing2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-tentative.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-testing.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-testing2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-tmm.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-torrent.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-transfer.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-transfer2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-trash.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-trash2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-ubiquiti.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-vm.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-vm2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-vm3.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-vpn.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-vpn2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-vpn2a.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-webcam.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-webcam2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-wiki.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-wiki2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-world.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-wrench2.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-youtube.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-youtube4.svg" width=64 height=64>
+   <img src="./Pale-Collection/pale-youtube5.svg" width=64 height=64>
+</p>
+
+### Plain Grey
+
+<p align="center">
+   <img src="./Plain-Grey-Collection/grey-ai.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-ai2.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-audio.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-backup.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-binoculars.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-books.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-books2.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-books3.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-camera.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-chat.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-cloud.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-code.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-control.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-cooking.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-dash.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-database.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-dependencies.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-downloads.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-eye.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-finances.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-gaming.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-glass-shot.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-globe.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-grafana.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-hammer.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-home-automation.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-homeautomation2.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-jellyfin.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-multimedia.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-multimedia2.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-music.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-network.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-nzb.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-pirate.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-plex.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-powertool.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-productivity.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-scrape.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-search.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-security.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-settings.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-ship.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-tentative.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-torrent.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-vpn.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-youtube.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-youtube4.svg" width=64 height=64>
+   <img src="./Plain-Grey-Collection/grey-youtube5.svg" width=64 height=64>
+</p>
+
+### Yellow Collection 
+
+<p align="center">
+   <img src="./Yellow-Collection/yellow-adult.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-adult2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-ai.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-ai2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-ai3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-ai3a.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-arrs.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-arrs2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-audio.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-audio2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-audio3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-audio4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-backup.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-backup2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-backup3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-binoculars.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-binoculars2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-books.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-books2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-books3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-books4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-books5.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-broadcast.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-camera.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-camera2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-camera2a.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-chat.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-chat2a.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-chat3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-checklist.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-chrono.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-chrono2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-chrono3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-cloud.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-cloud2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-cloud3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-code.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-code2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-code3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-community.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-community2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-control.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-control2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-control3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-cooking.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-cooking2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-cooking3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-cooking4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-cooking4veg.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-crypto.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-crypto2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-crypto3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-crypto4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-dash.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-dash2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-dash2a.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-dash3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-dash3a.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-database.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-database2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-database3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-database4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-debrid2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-debrid2a.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-dependencies.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-dependencies2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-discord.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-discord2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-docker.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-docker2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-downloads.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-downloads2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-drivers.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-drivers2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-emby.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-emby2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-eye.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-eye2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-finances.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-fun.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-gaming.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-gaming2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-gaming3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-gaming4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-gaming5.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-gaming6.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-glass-shot.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-glass-shot2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-globe.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-globe2a.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-globe3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-grafana.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-grafana2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-grafana3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-grafana4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-graph.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-hacker.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-hammer.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-home-automation.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-home-automation1.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-homeautomation2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-homeautomation3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-homeautomation4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-homeautomation4a.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-index.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-jellyfin.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-jellyfin2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-kodi.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-livetv.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-malware.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-movies.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-multimedia.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-multimedia2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-multimedia3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-multimedia4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-music.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-music2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-music2a.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-network.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-network2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-network3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-newspaper.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-nginx.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-nginx2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-nzb.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-nzb2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-nzb3a.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-off.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-off2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-off3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-other.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-other2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-pirate.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-pirate2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-pirate3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-plex.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-plex2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-plex3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-plugin.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-plugin2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-plugin3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-plugin4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-powertool.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-privacy.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-productivity.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-productivity3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-productivity4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-projectmanagement.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-proxy.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-python.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-radar.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-reel.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-requests.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-requests2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-robot.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-robot2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-rss.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-rust.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-scrape.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-search.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-search2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-security.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-settings.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-settings2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-shield.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-ship.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-steam.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-steam2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-streaming.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-synchthing.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-synchthing2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-tentative.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-testing.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-testing2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-tmm.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-torrent.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-transfer.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-transfer2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-trash2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-ubiquiti.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-vm.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-vm2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-vm3.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-vpn.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-vpn2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-vpn2a.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-webcam.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-webcam2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-wiki.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-wiki2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-world.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-wrench2.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-youtube.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-youtube4.svg" width=64 height=64>
+   <img src="./Yellow-Collection/yellow-youtube5.svg" width=64 height=64>
+</p>
+
+## Updates
+
+### 1/6/25:
+   -Added new Chronometer Icon that actually ticks seconds accurately.
+
+<img src="./Pale-Collection/pale-chrono.svg" width=100 height=100>
+
+### 11/4/24 ~ 11/18/24:
+   -Added refined and alternative versions for the below:
+
+<p align="left">
+   <img src="./Pale-Collection/pale-adult.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-adult2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-ai3a.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-arrs.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-arrs2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-audio2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-audio3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-audio4.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-backup2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-backup3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-binoculars2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-books4.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-books5.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-broadcast.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-camera2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-camera2a.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-chat2a.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-chat3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-checklist.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-chrono.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-chrono2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-chrono3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-cloud2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-cloud3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-code2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-code3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-community.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-community2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-control2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-control3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-cooking2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-cooking3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-cooking4.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-cooking4veg.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-crypto.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-crypto2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-crypto3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-crypto4.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-dash2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-dash2a.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-dash3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-dash3a.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-database2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-database3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-database4.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-debrid2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-debrid2a.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-dependencies2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-discord.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-discord2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-docker.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-docker2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-drivers.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-drivers2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-emby.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-emby2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-eye2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-fun.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-gaming2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-gaming3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-gaming4.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-gaming5.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-gaming6.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-glass-shot2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-globe2a.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-globe3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-grafana2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-grafana3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-graph.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-hacker.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-homeautomation1.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-homeautomation3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-homeautomation4.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-homeautomation4a.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-index.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-jellyfin2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-kodi.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-livetv.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-malware.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-movies.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-multimedia4.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-music2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-music2a.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-network2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-network3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-newspaper.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-nginx.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-nginx2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-nzb2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-nzb3a.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-off2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-off3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-other.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-other2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-pirate2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-pirate3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-plex3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-plugin.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-plugin2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-plugin3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-plugin4.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-privacy.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-productivity2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-productivity3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-productivity4.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-projectmanagement.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-proxy.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-python.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-radar.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-reel.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-requests.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-requests2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-robot.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-robot2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-rss.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-rust.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-search2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-settings2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-shield.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-steam.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-steam2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-streaming.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-synchthing.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-synchthing2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-testing.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-testing2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-transfer.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-transfer2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-trash2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-vm.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-vm2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-vm3.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-vpn2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-vpn2a.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-webcam.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-webcam2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-wiki.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-wiki2.svg" width=82 height=82>
+   <img src="./Pale-Collection/pale-wrench2.svg" width=82 height=82>
+</p>
+
+### 10/29/24:
+   -Added Off and Power Tool Icons.
+
+<p align="left">
+   <img src="./Yellow-Collection/yellow-powertool.svg" width=120 height=120>
+   <img src="./Pale-Collection/pale-off.svg" width=120 height=120>
+</p>
+
+### 10/21b/24:
+   -Added Finance, Tools, Chat (a), and Downloads-2 (b) Icons.
+
+<p align="left">
+   <img src="./Yellow-Collection/yellow-finances.svg" width=120 height=120>
+   <img src="./Blue-Collection/blue-chat.svg" width=120 height=120>
+   <img src="./Orange-Collection/orange-hammer.svg" width=120 height=120>
+   <img src="./Pale-Collection/pale-downloads2.svg" width=120 height=120>
+</p>
+
+### 10/9/24:
+   -Added Drinking Glass to some of the collections.
+
+<img src="./Pale-Collection/pale-glass-shot.svg" width=120 height=120>
+
+### 2/21/24:
+   -Added Scraping and Tiny Media Manager Icons to some of the collections.
+
+<p align="left">
+   <img src="./Blue-Collection/blue-scraper.svg" width=120 height=120>
+   <img src="./Yellow-Collection/yellow-tmm.svg" width=120 height=120>
+</p>
+
+### 1/8/24:
+   -Added Jellyfin, Cooking, and Camera Icons to collections.
+   -Fixed png icons that were "empty"
+
+<p align="left">
+   <img src="./Blue-Collection/blue-jellyfin.svg" width=120 height=120>
+   <img src="./Yellow-Collection/yellow-camera.svg" width=120 height=120>
+   <img src="./Orange-Collection/orange-cooking.svg" width=120 height=120>
+   <img src="./Grey-Collection/grey-plex.svg" width=120 height=120>
+</p>
+
+### UPDATE 7/30/24:
+   -Added AI icons to collections.
+
+<p align="left">
+   <img src="./Yellow-Collection/yellow-ai.svg" width=100 height=100>
+   <img src="./Orange-Collection/orange-ai2.svg" width=100 height=100>
+</p>
+
+## Animation Preview
+
+<p align="left">
+   <img src="./Blue-Collection/blue-security.svg" width=100 height=100>
+   <img src="./Grey-Collection/grey-dash.svg" width=100 height=100>
+   <img src="./Orange-Collection/orange-code.svg" width=100 height=100>
+   <img src="./Yellow-Collection/yellow-grafana.svg" width=100 height=100>
+   <img src="./Grey-Collection/grey-youtube.svg" width=100 height=100>
+   <img src="./Orange-Collection/orange-plex.svg" width=100 height=100>
+   <img src="./Yellow-Collection/yellow-productivity.svg" width=100 height=100>
+</p>
+
+## Requests
+
 Ground7 is offering to animate any new icon requests. However, he is not going to be creating the vector files necessary for him to animate. I will gladly take requests (within reason) to create the vector files. The more info/samples you can provide, the better. Please feel free to enter your request on my thread **[here](https://forums.unraid.net/topic/92824-icon-collections-for-docker-folder-plugin/)**.
-
-
 
 Enjoy.

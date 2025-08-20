@@ -4,7 +4,7 @@
 
 These are alternative color versions of **[ground7's](https://github.com/ground7/unraid-animated-svgs)** collection of animated .svg icons. 
 
-These are meant to be used with **[Guildart's](https://forums.unraid.net/topic/89702-plugin-docker-folder/?tab=comments#comment-832166&searchlight=1)** great unRAID plugin Docker Folders.
+These are meant to be used with **[VladoPortos' FolderView2](https://github.com/VladoPortos/folder.view2)**.
 
 ## Preview
 

@@ -341,7 +341,6 @@ Please note that a massive amount of new and refined icons have been added since
    <img src="./Orange-Flat-Collection-WIP/orange-flat-camera.svg" width=64 height=64>
    <img src="./Orange-Flat-Collection-WIP/orange-flat-camera2.svg" width=64 height=64>
    <img src="./Orange-Flat-Collection-WIP/orange-flat-camera2a.svg" width=64 height=64>
-   <img src="./Orange-Flat-Collection-WIP/orange-flat-chat.svg" width=64 height=64>
    <img src="./Orange-Flat-Collection-WIP/orange-flat-chat2a.svg" width=64 height=64>
    <img src="./Orange-Flat-Collection-WIP/orange-flat-chat3.svg" width=64 height=64>
    <img src="./Orange-Flat-Collection-WIP/orange-flat-checklist.svg" width=64 height=64>

@@ -29,7 +29,6 @@
 	<img src="./orange-flat-camera.svg" width=64 height=64>
 	<img src="./orange-flat-camera2.svg" width=64 height=64>
 	<img src="./orange-flat-camera2a.svg" width=64 height=64>
-	<img src="./orange-flat-chat.svg" width=64 height=64>
 	<img src="./orange-flat-chat2a.svg" width=64 height=64>
 	<img src="./orange-flat-chat3.svg" width=64 height=64>
 	<img src="./orange-flat-checklist.svg" width=64 height=64>

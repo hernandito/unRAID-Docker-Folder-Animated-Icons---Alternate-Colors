@@ -969,13 +969,15 @@ Please note that a massive amount of new and refined icons have been added since
 
 ## Updates
 
-### 1/6/25:
-   -Added new Chronometer Icon that actually ticks seconds accurately.
+### 1/6/25
+
+- Added new Chronometer Icon that actually ticks seconds accurately.
 
 <img src="./Pale-Collection/pale-chrono.svg" width=100 height=100>
 
-### 11/4/24 ~ 11/18/24:
-   -Added refined and alternative versions for the below:
+### 11/4/24 ~ 11/18/24
+
+- Added refined and alternative versions for the icons below.
 
 <p align="left">
    <img src="./Pale-Collection/pale-adult.svg" width=82 height=82>
@@ -1119,16 +1121,18 @@ Please note that a massive amount of new and refined icons have been added since
    <img src="./Pale-Collection/pale-wrench2.svg" width=82 height=82>
 </p>
 
-### 10/29/24:
-   -Added Off and Power Tool Icons.
+### 10/29/24
+ 
+- Added Off and Power Tool Icons.
 
 <p align="left">
    <img src="./Yellow-Collection/yellow-powertool.svg" width=120 height=120>
    <img src="./Pale-Collection/pale-off.svg" width=120 height=120>
 </p>
 
-### 10/21b/24:
-   -Added Finance, Tools, Chat (a), and Downloads-2 (b) Icons.
+### 10/21b/24
+ 
+- Added Finance, Tools, Chat (a), and Downloads-2 (b) Icons.
 
 <p align="left">
    <img src="./Yellow-Collection/yellow-finances.svg" width=120 height=120>
@@ -1137,36 +1141,40 @@ Please note that a massive amount of new and refined icons have been added since
    <img src="./Pale-Collection/pale-downloads2.svg" width=120 height=120>
 </p>
 
-### 10/9/24:
-   -Added Drinking Glass to some of the collections.
+### 10/9/24
+
+- Added Drinking Glass to some of the collections.
 
 <img src="./Pale-Collection/pale-glass-shot.svg" width=120 height=120>
 
-### 2/21/24:
-   -Added Scraping and Tiny Media Manager Icons to some of the collections.
+### 7/30/24
+
+- Added AI icons to collections.
+
+<p align="left">
+   <img src="./Yellow-Collection/yellow-ai.svg" width=100 height=100>
+   <img src="./Orange-Collection/orange-ai2.svg" width=100 height=100>
+</p>
+
+### 2/21/24
+
+- Added Scraping and Tiny Media Manager Icons to some of the collections.
 
 <p align="left">
    <img src="./Blue-Collection/blue-scraper.svg" width=120 height=120>
    <img src="./Yellow-Collection/yellow-tmm.svg" width=120 height=120>
 </p>
 
-### 1/8/24:
-   -Added Jellyfin, Cooking, and Camera Icons to collections.
-   -Fixed png icons that were "empty"
+### 1/8/24
+
+- Added Jellyfin, Cooking, and Camera Icons to collections.
+- Fixed png icons that were "empty"
 
 <p align="left">
    <img src="./Blue-Collection/blue-jellyfin.svg" width=120 height=120>
    <img src="./Yellow-Collection/yellow-camera.svg" width=120 height=120>
    <img src="./Orange-Collection/orange-cooking.svg" width=120 height=120>
    <img src="./Grey-Collection/grey-plex.svg" width=120 height=120>
-</p>
-
-### UPDATE 7/30/24:
-   -Added AI icons to collections.
-
-<p align="left">
-   <img src="./Yellow-Collection/yellow-ai.svg" width=100 height=100>
-   <img src="./Orange-Collection/orange-ai2.svg" width=100 height=100>
 </p>
 
 ## Animation Preview

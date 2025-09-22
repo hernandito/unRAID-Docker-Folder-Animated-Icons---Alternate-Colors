@@ -24,6 +24,11 @@ Image below only shows part of collection. Go to directory to see full collectio
 
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Flat-Collection/orange-flat-collection.png">
 
+## Grey Flat Collection - added 9/22/2025
+Image below only shows part of collection. Go to directory to see full collection.
+
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Grey-Flat-Collection/grey-flat-collection.png">
+
 
 
 ### MASSIVE UPDATES 11/4/24 ~ 11/18/24:

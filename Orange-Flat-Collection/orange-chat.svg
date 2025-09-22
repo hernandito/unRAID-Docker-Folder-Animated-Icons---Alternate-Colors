@@ -4,7 +4,7 @@
 ]]></style>
 <g id="social-chat-u-background" transform="translate(.002404 0)"><path id="social-chat-u-background2" d="M650,325.1c0,81.6,0,163.1,0,244.7c0,37.4-28.2,71.6-65,78.6-5.5,1-11.1,1.6-16.6,1.6-162.6,0-325.2,0-487.7,0C40.8,650,6,619.4,0.8,579.8c-.5-3.5-.8-7-.8-10.6c0-163,0-326,0-488.9C0,42.9,28.2,8.7,65,1.7c5.4-1,11.1-1.6,16.6-1.6C244.3,0,407,0,569.7,0c37.4,0,71.6,28.2,78.6,65c1,5.4,1.6,11.1,1.6,16.6.1,81.2.1,162.3.1,243.5v0Z" fill="#f3582c"/></g>
 
-<g id="social-chat-u-speechbubble" transform="translate(0 0.000001)"><path id="social-chat-s-path1" d="M593.884892,417.821328L417.909883,641.13972l.615297-153.106364l175.359712-70.212028" transform="translate(0 2.353664)" fill="#01507b" stroke-width="1.3"/><ellipse id="social-chat-s-ellipse1" rx="326.107535" ry="270.666868" transform="matrix(.969442 0 0 1.007172 323.113224 281.774641)" fill="#01507b" stroke-width="0"/></g>
+<g id="social-chat-u-speechbubble" transform="translate(0 0.000001)"><path id="social-chat-s-path1" d="M593.884892,417.821328L417.909883,641.13972l.615297-153.106364l175.359712-70.212028" transform="translate(0 2.353664)" fill="#000000" stroke-width="1.3"/><ellipse id="social-chat-s-ellipse1" rx="326.107535" ry="270.666868" transform="matrix(.969442 0 0 1.007172 323.113224 281.774641)" fill="#000000" stroke-width="0"/></g>
 
 <rect id="social-chat-u-text4a" width="90.8" height="90.8" rx="0" ry="0" transform="translate(466.9 327.3)" opacity="0" fill="#fff"/>
 <rect id="social-chat-u-text3" width="90.8" height="90.8" rx="0" ry="0" transform="translate(340.1 327.3)" opacity="0" fill="#fff"/>

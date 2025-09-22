@@ -7,25 +7,25 @@
 
 <path id="power-tool-u-background" d="M651.4,325.1c0,81.6,0,163.1,0,244.7c0,37.4-28.2,71.6-65,78.6-5.5,1-11.1,1.6-16.6,1.6-162.6,0-325.2,0-487.7,0-39.9,0-74.7-30.6-79.9-70.2-.5-3.5-.8-7-.8-10.6c0-163,0-326,0-488.9c0-37.4,28.2-71.6,65-78.6c5.4-1,11.1-1.6,16.6-1.6C245.7,0,408.4,0,571.1,0c37.4,0,71.6,28.2,78.6,65c1,5.4,1.6,11.1,1.6,16.6.1,81.2.1,162.3.1,243.5v0Z" fill="#f3582c"/>
 
-<g id="power-tool-u-spark6a_to" transform="translate(-69.794279,212.65)"><g id="power-tool-u-spark6a_tr" transform="rotate(0)"><path id="power-tool-u-spark6a" d="M57.35396,26.119403L40.450993,48.507463Q67.179552,82.466334,67.179552,80.3t48.480239-19.016418v-43.870647L82.099999,8.706467L57.35396,26.119403Z" transform="translate(-78.055392,-44.503234)" fill="#01507b" stroke-width="1.3"/></g></g>
+<g id="power-tool-u-spark6a_to" transform="translate(-69.794279,212.65)"><g id="power-tool-u-spark6a_tr" transform="rotate(0)"><path id="power-tool-u-spark6a" d="M57.35396,26.119403L40.450993,48.507463Q67.179552,82.466334,67.179552,80.3t48.480239-19.016418v-43.870647L82.099999,8.706467L57.35396,26.119403Z" transform="translate(-78.055392,-44.503234)" fill="#000000" stroke-width="1.3"/></g></g>
 
-<g id="power-tool-u-spark5a_to" transform="translate(-56.194278,212.649997)"><g id="power-tool-u-spark5a_tr" transform="rotate(0)"><path id="power-tool-u-spark5a" d="M99.892586,416.738558q-1.640152,0-23.534957,12.36592l-.000001,24.253731l12.987046,11.194029l17.114486-1.243781l18.712917,1.865671l16.299999-26.741293-8.636257-22.93806-12.783387-6.356219q-18.519696,7.6-20.159846,7.600002Z" transform="scale(1.444256,1.444256) translate(-108.91485,-437.156341)" fill="#01507b" stroke-width="1.3"/></g></g>
+<g id="power-tool-u-spark5a_to" transform="translate(-56.194278,212.649997)"><g id="power-tool-u-spark5a_tr" transform="rotate(0)"><path id="power-tool-u-spark5a" d="M99.892586,416.738558q-1.640152,0-23.534957,12.36592l-.000001,24.253731l12.987046,11.194029l17.114486-1.243781l18.712917,1.865671l16.299999-26.741293-8.636257-22.93806-12.783387-6.356219q-18.519696,7.6-20.159846,7.600002Z" transform="scale(1.444256,1.444256) translate(-108.91485,-437.156341)" fill="#000000" stroke-width="1.3"/></g></g>
 
-<g id="power-tool-u-spark4_to" transform="translate(-61.844279,212.600009)"><polygon id="power-tool-u-spark4" points="37.4,299.7 15.6,361.1 59.7,346.7" transform="translate(-71.260439,-249.018903)" clip-rule="evenodd" fill="#01507b" fill-rule="evenodd"/></g>
+<g id="power-tool-u-spark4_to" transform="translate(-61.844279,212.600009)"><polygon id="power-tool-u-spark4" points="37.4,299.7 15.6,361.1 59.7,346.7" transform="translate(-71.260439,-249.018903)" clip-rule="evenodd" fill="#000000" fill-rule="evenodd"/></g>
 
-<g id="power-tool-u-spark3_to" transform="translate(-61.844277,212.649997)"><polygon id="power-tool-u-spark3" points="104,295 111.8,329.5 146.3,288.1 118.7,255.9" transform="translate(-125.150002,-292.699997)" fill="#01507b"/></g>
+<g id="power-tool-u-spark3_to" transform="translate(-61.844277,212.649997)"><polygon id="power-tool-u-spark3" points="104,295 111.8,329.5 146.3,288.1 118.7,255.9" transform="translate(-125.150002,-292.699997)" fill="#000000"/></g>
 
-<g id="power-tool-u-spark2_to" transform="translate(-56.194279,216.100003)"><polygon id="power-tool-u-spark2" points="28.6,407.1 31.9,435.8 58.9,443.4 70.7,419.8 64,376.7" transform="translate(-49.65,-410.050003)" fill="#01507b"/></g>
+<g id="power-tool-u-spark2_to" transform="translate(-56.194279,216.100003)"><polygon id="power-tool-u-spark2" points="28.6,407.1 31.9,435.8 58.9,443.4 70.7,419.8 64,376.7" transform="translate(-49.65,-410.050003)" fill="#000000"/></g>
 
-<g id="power-tool-u-spark1_to" style="offset-path:path('M-43.144278,228.199998C-43.144278,228.199998,201.567712,8.385373,269.651741,-46.641791');offset-rotate:0deg"><polyline id="power-tool-u-spark1" points="49.7,57.5 79.6,25.3 130.2,25.3 106.2,48.2 89.9,74.6 49.7,91.5 55.7,58.4" transform="translate(-148.530409,-31.692537)" clip-rule="evenodd" fill="#01507b" fill-rule="evenodd"/></g>
+<g id="power-tool-u-spark1_to" style="offset-path:path('M-43.144278,228.199998C-43.144278,228.199998,201.567712,8.385373,269.651741,-46.641791');offset-rotate:0deg"><polyline id="power-tool-u-spark1" points="49.7,57.5 79.6,25.3 130.2,25.3 106.2,48.2 89.9,74.6 49.7,91.5 55.7,58.4" transform="translate(-148.530409,-31.692537)" clip-rule="evenodd" fill="#000000" fill-rule="evenodd"/></g>
 
 <g id="power-tool-u-drillgroup_to" transform="translate(327.399983,335.500015)">
 	<g id="power-tool-u-drillgroup" transform="translate(-327.399982,-335.500015)">
-		<path id="power-tool-u-drill_body" d="M537.9,370.5c19.7,0,69.4-.6,69.4-70.2v-105.2c0-19.4-35-105.3-175-105.3h-105c-19.4,0-35,15.7-35,35.1v175.5c0,70.2,85.7,70.2,105,70.2h.2c140.4,175.5,0,175.5,0,175.5c0,19.4,15.7,35.1,35.1,35.1h140.4c19.4,0,35.1-15.7,35.1-35.1L537.9,370.5Zm.1-175.4h35.1v105.3h-35.1v-105.3ZM502.9,300.3h-35.1v-105.2h35.1v105.2Z" fill="#fff" stroke="#01507b" stroke-width="18" stroke-miterlimit="10"/>
+		<path id="power-tool-u-drill_body" d="M537.9,370.5c19.7,0,69.4-.6,69.4-70.2v-105.2c0-19.4-35-105.3-175-105.3h-105c-19.4,0-35,15.7-35,35.1v175.5c0,70.2,85.7,70.2,105,70.2h.2c140.4,175.5,0,175.5,0,175.5c0,19.4,15.7,35.1,35.1,35.1h140.4c19.4,0,35.1-15.7,35.1-35.1L537.9,370.5Zm.1-175.4h35.1v105.3h-35.1v-105.3ZM502.9,300.3h-35.1v-105.2h35.1v105.2Z" fill="#fff" stroke="#000000" stroke-width="18" stroke-miterlimit="10"/>
 	
-		<polygon id="power-tool-u-drillbit" points="46.7,195.1 46.7,230.1 151.9,230.1 152,195.1" fill="#fff" stroke="#01507b" stroke-width="18" stroke-miterlimit="10"/>
+		<polygon id="power-tool-u-drillbit" points="46.7,195.1 46.7,230.1 151.9,230.1 152,195.1" fill="#fff" stroke="#000000" stroke-width="18" stroke-miterlimit="10"/>
 		
-		<path id="power-tool-u-drillchuck" d="M257.2,124.9c-19.4,0-35.1,15.7-35.1,35.1h-35.1c-19.4,0-35.1,15.7-35.1,35.1v35.1c0,19.4,15.7,35.1,35.1,35.1h35.1c0,19.4,15.7,35.1,35.1,35.1h35.1v-175.5h-35.1Z" fill="#01507b" stroke="#01507b" stroke-width="18" stroke-miterlimit="10"/>
+		<path id="power-tool-u-drillchuck" d="M257.2,124.9c-19.4,0-35.1,15.7-35.1,35.1h-35.1c-19.4,0-35.1,15.7-35.1,35.1v35.1c0,19.4,15.7,35.1,35.1,35.1h35.1c0,19.4,15.7,35.1,35.1,35.1h35.1v-175.5h-35.1Z" fill="#000000" stroke="#000000" stroke-width="18" stroke-miterlimit="10"/>
 	</g>
 </g>
 

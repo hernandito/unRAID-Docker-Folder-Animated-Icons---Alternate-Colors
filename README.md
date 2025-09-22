@@ -19,6 +19,12 @@ Please note that a massive amount of new and refined icons have been added since
 ## Yellow Collection 
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/Yellow%20Collection.png">
 
+## Orange Flat Collection - added 9/22/2025
+
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange_Flat-Collection/orange-flat-collection.png">
+
+
+
 ### MASSIVE UPDATES 11/4/24 ~ 11/18/24:
    -Added refined and alternative versions for the below:
    

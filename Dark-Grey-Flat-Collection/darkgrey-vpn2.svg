@@ -30,7 +30,7 @@
                     animation-timing-function: ease-in-out;
                 }
                 50% {
-                    fill: #36d900;
+                    fill: #fff;
                     animation-timing-function: ease-in-out;
                 }
                 100% {
@@ -134,7 +134,7 @@
     <g clip-path="url('#eaf-15e7b-1')" style="isolation: isolate;">
         <g>
             <path
-                fill="#222222"
+                fill="#444444"
                 d="m650 325.1c0 81.6 0 163.1 0 244.7c0 37.4 -28.2 71.6 -65 78.6c-5.5 1 -11.1 1.6 -16.6 1.6c-162.6 0 -325.2 0 -487.7 0c-39.9 0.0001 -74.7 -30.5999 -79.9 -70.2c-0.5 -3.5 -0.8 -7 -0.8 -10.6c0 -163 0 -326 0 -488.9c0 -37.4 28.2 -71.6 65 -78.6c5.4 -1 11.1 -1.6 16.6 -1.6c162.7 -0.1 325.4 -0.1 488.1 -0.1c37.4 0 71.6 28.2 78.6 65c1 5.4 1.6 11.1 1.6 16.6c0.1 81.2 0.1 162.3 0.1 243.5l0 0l0 0z"
             ></path>
             <g transform="matrix(0.95 0 0 0.95 16.2475 16.412)" style="animation-name: eaf-15e7b-9, eaf-15e7b-10, eaf-15e7b-11; animation-composition: replace, add, add;">

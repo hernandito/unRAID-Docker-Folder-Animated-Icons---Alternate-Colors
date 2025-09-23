@@ -1,0 +1,309 @@
+<svg id="world" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style>
+        @keyframes world_line1_animation__ts {
+            0%,
+            to {
+                transform: translate(246.924172px, 129.92035px) scale(1, 1);
+            }
+            50% {
+                transform: translate(246.924172px, 129.92035px) scale(0.9, 1);
+            }
+        }
+        @keyframes world_line2_animation__ts {
+            0%,
+            to {
+                transform: translate(248.290036px, 246.261899px) scale(1, 1);
+            }
+            50% {
+                transform: translate(248.290036px, 246.261899px) scale(0.9, 1);
+            }
+        }
+        @keyframes world_line3_animation_f_o {
+            0%,
+            35%,
+            65%,
+            to {
+                fill-opacity: 0;
+            }
+            45%,
+            55% {
+                fill-opacity: 1;
+            }
+        }
+        @keyframes world_line4_animation__ts {
+            0%,
+            to {
+                transform: translate(249.069677px, 364.462559px) scale(1, 1);
+            }
+            50% {
+                transform: translate(249.069677px, 364.462559px) scale(0.9, 1);
+            }
+        }
+        @keyframes world_line5_animation__ts {
+            0% {
+                transform: translate(298px, 243.927345px) scale(1, 1);
+            }
+            to {
+                transform: translate(298px, 243.927345px) scale(0.5, 1);
+            }
+        }
+        @keyframes world_line6_animation1__to {
+            0%,
+            25% {
+                transform: translate(240.412147px, 305.907711px);
+            }
+            50% {
+                transform: translate(240.412147px, 293.907711px);
+            }
+            75%,
+            to {
+                transform: translate(240.412147px, 305.522139px);
+            }
+        }
+        @keyframes world_line6_animation2__ts {
+            0%,
+            to {
+                transform: scale(1, 1.25);
+            }
+            25%,
+            75% {
+                transform: scale(0.25, 1.25);
+            }
+            50% {
+                transform: scale(0.1, 1);
+            }
+        }
+        @keyframes world_line6_animation3_s_w {
+            0%,
+            to {
+                stroke-width: 0;
+            }
+            25%,
+            75% {
+                stroke-width: 20;
+            }
+            50% {
+                stroke-width: 100;
+            }
+        }
+        @keyframes world_line7_animation1__to {
+            0%,
+            25% {
+                transform: translate(259.552204px, 307.410952px);
+            }
+            50% {
+                transform: translate(259.552204px, 295.410952px);
+            }
+            75%,
+            to {
+                transform: translate(259.552204px, 307.399054px);
+            }
+        }
+        @keyframes world_line7_animation2__ts {
+            0%,
+            to {
+                transform: scale(1, 1.25);
+            }
+            25%,
+            75% {
+                transform: scale(0.25, 1.25);
+            }
+            50% {
+                transform: scale(0.1, 1);
+            }
+        }
+        @keyframes world_line7_animation3_s_w {
+            0%,
+            to {
+                stroke-width: 0;
+            }
+            25%,
+            75% {
+                stroke-width: 20;
+            }
+            50% {
+                stroke-width: 100;
+            }
+        }
+        @keyframes world_line8_animation__ts {
+            0% {
+                transform: translate(213px, 246.186959px) scale(1, 1);
+            }
+            80%,
+            to {
+                transform: translate(213px, 246.186959px) scale(2, 1);
+            }
+        }
+        @keyframes world_line9_animation__ts {
+            0% {
+                transform: translate(218px, 247.460563px) scale(1, 1);
+            }
+            to {
+                transform: translate(218px, 247.460563px) scale(0.5, 1);
+            }
+        }
+        @keyframes world_line10_animation__ts {
+            0% {
+                transform: translate(293px, 246.740132px) scale(1, 1);
+            }
+            to {
+                transform: translate(293px, 246.740132px) scale(2, 1);
+            }
+        }
+        #world {
+            pointer-events: all;
+        }
+        #world_line1_animation {
+            animation: world_line1_animation__ts 800ms linear infinite normal forwards;
+        }
+        #world_line2_animation {
+            animation: world_line2_animation__ts 800ms linear infinite normal forwards;
+        }
+        #world_line3_animation {
+            animation: world_line3_animation_f_o 800ms linear infinite normal forwards;
+        }
+        #world_line4_animation {
+            animation: world_line4_animation__ts 800ms linear infinite normal forwards;
+        }
+        #world_line5_animation {
+            animation: world_line5_animation__ts 800ms linear infinite normal forwards;
+        }
+        #world_line6_animation1 {
+            animation: world_line6_animation1__to 800ms linear infinite normal forwards;
+        }
+        #world_line6_animation2 {
+            animation: world_line6_animation2__ts 800ms linear infinite normal forwards;
+        }
+        #world_line6_animation3 {
+            animation: world_line6_animation3_s_w 800ms linear infinite normal forwards;
+        }
+        #world_line7_animation1 {
+            animation: world_line7_animation1__to 800ms linear infinite normal forwards;
+        }
+        #world_line7_animation2 {
+            animation: world_line7_animation2__ts 200ms linear infinite normal forwards;
+        }
+        #world_line7_animation3 {
+            animation: world_line7_animation3_s_w 200ms linear infinite normal forwards;
+        }
+        #world_line8_animation {
+            animation: world_line8_animation__ts 200ms linear infinite normal forwards;
+        }
+        #world_line9_animation {
+            animation: world_line9_animation__ts 200ms linear infinite normal forwards;
+        }
+        #world_line10_animation {
+            animation: world_line10_animation__ts 200ms linear infinite normal forwards;
+        }
+    </style>
+    <g id="background">
+        <path
+            id="square"
+            d="M498.1 249.4v186.99c0 28.57-21.55 54.69-49.69 60.04-4.16.79-8.46 1.24-12.69 1.24-124.24.07-248.48.05-372.72.05-30.45 0-57.04-23.36-61.03-53.67-.35-2.67-.59-5.39-.59-8.08-.04-124.55-.03-249.11-.03-373.66 0-28.58 21.56-54.7 49.69-60.04 4.16-.79 8.46-1.24 12.69-1.24C188.08.97 312.42.98 436.77.98c28.57 0 54.73 21.58 60.04 49.69.79 4.16 1.24 8.46 1.24 12.69.07 62.01.05 124.03.05 186.04z"
+            fill="#222222"
+            stroke="none"
+            stroke-width="1"
+        />
+    </g>
+    <g id="world_line1_animation" transform="translate(246.924 129.92)">
+        <path
+            id="world_line1"
+            d="M57.433 220.457c-4.1 3.4-4.4 9.2-.6 12.9l2.4 2.5h338.8l2-2.3c2.9-3.2 3.5-5.6 2.2-9.4-2.2-6.8 10.7-6.3-174.3-6.3h-167.4z"
+            transform="translate(-228.523 -226.853)"
+            fill="#ffffff"
+            stroke="none"
+            stroke-width=".1"
+        />
+    </g>
+    <g id="world_line2_animation" transform="translate(248.29 246.262)">
+        <path
+            id="world_line2"
+            d="M16.043 337.09c-2 2-2.9 3.9-2.9 6.1 0 2.2.9 4.1 2.9 6.1l2.9 2.9h210.2c232.1 0 214.7.5 216.9-6.3 1.4-4.1.3-7.8-3.1-10.1-2-1.5-21.4-1.6-213.1-1.6h-210.9z"
+            transform="translate(-229.89 -343.195)"
+            fill="#ffffff"
+            stroke="none"
+            stroke-width=".1"
+        />
+    </g>
+    <path
+        id="world_line3_animation"
+        d="M16.043 337.09c-2 2-2.9 3.9-2.9 6.1 0 2.2.9 4.1 2.9 6.1l2.9 2.9h210.2c232.1 0 214.7.5 216.9-6.3 1.4-4.1.3-7.8-3.1-10.1-2-1.5-21.4-1.6-213.1-1.6h-210.9z"
+        transform="rotate(90 287.556 303.929)"
+        fill="#ffffff"
+        fill-opacity="0"
+        stroke="none"
+        stroke-width=".1"
+    />
+    <g id="world_line4_animation" transform="translate(249.07 364.463)">
+        <path
+            id="world_line4"
+            d="M67.743 453.095c-4.7 1.5-6.6 3.9-6.6 8.5 0 3.2.6 4.7 2.6 6.6l2.6 2.4h329l2.4-2.8c4.6-5.4 2.5-12.8-4.4-14.7-4.6-1.2-321.3-1.2-325.6 0z"
+            transform="translate(-230.669 -461.395)"
+            fill="#ffffff"
+            stroke="none"
+            stroke-width=".1"
+        />
+    </g>
+    <g id="world_line5_animation" transform="translate(298 243.927)">
+        <path
+            id="world_line5"
+            d="M207.524 127.529c-60.8 6.2-116.5 36.8-153.2 84.2-21.1 27.3-34.3 57.3-41 92.7-2.9 15.4-3.6 47.5-1.3 63.5 3.5 25.5 8.7 43 19.4 65 26.1 53.7 71.8 93.1 129.6 111.8 23.1 7.5 40.4 10.1 67 10.1 30.3 0 53.343-11.472 80.443-21.872 9.4-3.6 9.6-3.7 8.7-4.6-.4-.4-1.3-.2-2 .5-.8.6-2.5 1-3.8.9-1.3 0-4.2.4-6.5 1-8.6 2.5-23.643 10.672-42.843 9.672-48-2.5-54.3-3-65.5-5.4-66.3-14-121.1-67.3-141-137.1-7.3-25.7-9.6-52.4-6.9-80.1 3.6-37.4 18.4-75 41-104.4 9-11.7 25.7-28.5 36.4-36.5 22.9-17.2 50.5-29.2 77.5-33.9 11.4-2 57.743 6.505 73.243 7.405 5.8.3 14.3 1.6 18.8 2.7 5.3 1.3 8.7 1.7 9.3 1.1 2-2-26.8-18.977-45.8-21.877-13.2-1.9-39.143-6.128-51.543-4.828z"
+            transform="translate(-280 -340.86)"
+            fill="#ffffff"
+            stroke="none"
+            stroke-width=".1"
+        />
+    </g>
+    <g id="world_line6_animation1" transform="translate(240.412 305.908)">
+        <g id="world_line6_animation2" transform="scale(1 1.25)">
+            <path
+                id="world_line6_animation3"
+                d="M20.06-209.09c-23.8 4.866-46 18.897-63.3 43.689-27.6 39.62-39.5 101.794-30.2 157.247 10.7 63.64 44.003 106.075 87.303 118.896 6 1.853 7.598 4.018 19.698 4.018 12.1 0 8 1.18 14-.674 6.6-1.93 21.5-3.918 26.5-6.853l2.5-1.545-3.5.773c-4.5 1.004-12.6 1.004-28-.078-25.6-1.699-33.5-4.247-48.1-15.369-22.6-17.223-38.9-44.95-47.9-81.867-5.1-21.008-6.4-32.825-6.4-57.54 0-24.019 1.2-34.909 6-55.221 12.1-50.665 38.7-86.193 71.7-95.924 8.9-2.626 27.347-9.832 34.247-7.901l5 1.474-2.5-1.622c-3.6-2.471-2.548-.113-9.548-1.503-7.4-1.467-6.7-1.551-14-.084z"
+                fill="#ffffff"
+                stroke="#ffffff"
+                stroke-width="0"
+            />
+        </g>
+    </g>
+    <g id="world_line7_animation1" transform="translate(259.552 307.411)">
+        <g id="world_line7_animation2" transform="scale(1 1.25)">
+            <path
+                id="world_line7_animation3"
+                d="M-48.007-211.197c7.646 2.432 4-.323 0 2.145h0c8.7-1.311 17.3 5.492 25.9 7.497 8.7 2.083 19.7 7.868 28.2 14.964 42.8 35.403 62.2 116.315 45.7 190.516-10.4 46.433-36 83.765-65.3 95.103-9.1 3.471-13.4 4.243-31.2 5.477-15.3 1.08-23.4 4.998-28 3.995h0c4.5 2.854 17.4 2.696 24.7 4.084 4.6.926 9.817.232 16.917 0 18.5-.617 30.783-1.986 47.483-14.867 12-9.256 20.1-18.203 28.9-31.701 16.4-25.3 26.2-54.995 30.1-90.862 1.7-15.503.6-48.053-2-63.016-9.6-54.61-33.9-95.644-68.5-115.698-15.4-8.87-30.052-8.566-52.9-7.637z"
+                fill="#ffffff"
+                stroke="#ffffff"
+                stroke-width="0"
+            />
+        </g>
+    </g>
+    <g id="world_line8_animation" transform="translate(213 246.187)">
+        <path
+            id="world_line8"
+            d="M199.102 132.357c-6.203 1.186-11.985 12.6-18.185 16.6 5.6-.9 20.454-7.1 32.854-5.9 9.1.8 11.4 1.5 18.6 5 22.4 11 42.5 40 55.7 80 11.6 35.3 16.6 69.5 16.6 113.5 0 58-9.4 104.5-29 144-16 32.3-35.7 51.1-57 54.4-14.6 2.2-29.33-3.028-34.63-4.128-2.8-.6-4.75-3.453-4.95-3.253-.4.3 7.412 9.138 12.012 11.438 7.1 3.7 13.468 13.043 22.068 13.043 19.1 0 36.3-8.5 53.1-26.3 28.6-30.2 48.4-82.3 55.6-146.2 1.7-15.9 1.7-67 0-83-4.6-41.6-13.9-75.8-28.7-106-17.6-35.8-40.3-58.3-65.7-65.1-6.5-1.7-22.07.2-28.37 1.9z"
+            transform="translate(-195 -343.12)"
+            fill="#ffffff"
+                stroke="#ffffff" 
+            stroke-width=".1"
+        />
+    </g>
+    <g id="world_line9_animation" transform="translate(218 247.46)">
+        <path
+            id="world_line9"
+            d="M221.071 130.457c-22.9 2.3-34.664 9.681-54.564 16.081-8.4 2.7-12.5 4.5-11.9 5.1.7.7 3.9.3 9.3-1.1 4.8-1.2 11.164-6.98 17.664-7.28 16.3-.8 66.6 1.2 77.5 3.1 49.9 8.7 95.1 39.2 123.7 83.5 12.2 18.9 24.1 48.1 28.6 70.5 6.2 30.2 5.3 66.8-2.4 96-2.9 11.1-10.1 31-14.5 39.7-20.6 41.1-54.5 74.1-93.5 91.2-21.6 9.5-37.3 13.1-62.9 14.6-60.2 3.5-51.756-1.934-66.656-5.134-4.1-.9-8.2-3.176-9.2-3.076-1 .1-2.464-.399-3.264-1.099-1.2-1-4.029 0-2.829 1.1 1.3 1.2 28.193 9.975 35.293 11.775 58.4 14.3 105.556 12.333 155.256-17.267 29.7-17.6 52.6-39.3 71.2-67.3 7.5-11.3 18.8-33.8 23.2-46 14.8-41.6 15.3-93.6 1.4-136.2-17.9-54.9-60-102.1-113.6-127.4-18.8-8.9-41.2-15.6-63.2-18.9-10.3-1.5-36.9-2.7-44.6-1.9z"
+            transform="translate(-200 -344.393)"
+            fill="#ffffff"
+            stroke="#ffffff"
+            stroke-width=".1"
+        />
+    </g>
+    <g id="world_line10_animation" transform="translate(293 246.74)">
+        <path
+            id="world_line10"
+            d="M239.941 130.201c-34.08 14.207-58.67 40.956-77.47 93.356-7 19.6-13.9 51.1-17.1 78.3-2 17.3-1.7 70.6.5 88 8.1 62.5 27.3 111.9 55.1 141.2 25.1 26.6 51.396 27.319 79.296 13.619 3.9-1.9 8.6-7.685 10.5-9.285 3.4-2.9 3.355-5.422 0-4.334-4.9 1.7-29.296 11.8-43.796 9.2-30.1-5.6-58.5-45.3-72.9-102.3-9.3-36.6-12.1-63.3-11.2-106.4 1.1-53.4 10.7-97.3 29.3-134.4 7-14.2 14.9-25.4 24.5-35 7.1-7 10.4-9.4 18-13.2 8.8-4.4 10.1-4.7 20.9-5.6 15.2-1.3 31.796 11.457 35.196 12.657 5.1 2 3.853 1.28-2.957-6.55-9.576-10.017-19.307-16.84-31.739-19.707-5.5-.2-9.942-.6-12.142 0z"
+            transform="translate(-275 -343.673)"
+            fill="#ffffff"
+            stroke="#ffffff"
+            stroke-width=".1"
+        />
+    </g>
+</svg>

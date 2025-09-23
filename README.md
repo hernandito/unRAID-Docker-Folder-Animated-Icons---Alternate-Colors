@@ -92,11 +92,7 @@ Image below only shows part of collection. Go to directory to see full collectio
 ### Description
 These are alternative color versions of **[ground7's](https://github.com/ground7/unraid-animated-svgs)** collection of animated .svg icons. 
 
-These are meant to be used with **[Guildart's](https://forums.unraid.net/topic/89702-plugin-docker-folder/?tab=comments#comment-832166&searchlight=1)** great unRAID plugin Docker Folders.
-
-
-### Requests
-Ground7 is offering to animate any new icon requests. However, he is not going to be creating the vector files necessary for him to animate. I will gladly take requests (within reason) to create the vector files. The more info/samples you can provide, the better. Please feel free to enter your request on my thread **[here](https://forums.unraid.net/topic/92824-icon-collections-for-docker-folder-plugin/)**.
+**These are meant to be used with [VladoPortos' FolderView2 unRAID plugin](https://github.com/VladoPortos/folder.view2). ** 
 
 
 

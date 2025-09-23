@@ -92,7 +92,7 @@ Image below only shows part of collection. Go to directory to see full collectio
 ### Description
 These are alternative color versions of **[ground7's](https://github.com/ground7/unraid-animated-svgs)** collection of animated .svg icons. 
 
-**These are meant to be used with [VladoPortos' FolderView2 unRAID plugin](https://github.com/VladoPortos/folder.view2). ** 
+**These are meant to be used with [VladoPortos' FolderView2 ](https://github.com/VladoPortos/folder.view2) unRAID plugin. ** 
 
 
 

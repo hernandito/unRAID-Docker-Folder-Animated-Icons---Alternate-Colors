@@ -20,7 +20,7 @@
       </g>
       <g transform="matrix(4 0 0 4 -819.6229 -2295.2445)">
         <g>
-          <path fill="#8e8e8e" d="M 373.752 675 C 396.388 679.585 399.453 710.978 391.299 721.01 C 383.306 730.845 370.618 734.307 359.047 734.22 C 328.563 733.992 298.067 734.21 267.581 734.23 C 260.598 734.24 254.44 732.067 249.743 726.286 C 244.003 719.223 237.956 710.089 240.944 701.314 C 241.797 696.396 246.374 689.22 255.214 685.102 C 256.049 684.969 260.721 682.243 261.556 682.131 C 262.031 679.435 263.761 676.018 264.463 673.404 C 268.561 661.401 286.12 653.225 298.721 654.756 C 300.268 655.238 300.429 655.344 301.169 653.981 C 308.105 641.259 322.783 638.29 335.678 640.002 C 350.335 641.868 364.552 653.444 369.024 670.212 C 369.461 672.355 369.493 673.619 373.752 675 Z" transform="translate(-6.1636 -4.6964)">
+          <path fill="#8e8e8e" d="M 373.752 675 C 403.319 691.184 394.469 734.517 359.047 734.22 C 327.96 733.96 298.067 734.21 267.581 734.23 C 260.598 734.235 254.44 732.067 249.743 726.286 C 244.003 719.223 237.956 710.089 240.944 701.314 C 241.797 696.396 246.374 689.22 255.214 685.102 C 256.049 684.969 260.721 682.243 261.556 682.131 C 262.031 679.435 263.761 676.018 264.463 673.404 C 268.561 661.401 286.12 653.225 298.721 654.756 C 300.268 655.238 300.429 655.344 301.169 653.981 C 308.105 641.259 322.783 638.29 335.678 640.002 C 350.335 641.868 364.552 653.444 369.024 670.212 C 369.461 672.355 369.493 673.619 373.752 675 Z" transform="translate(-6.1636 -4.6964)">
             <animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" calcMode="discrete" dur="9000ms" repeatCount="indefinite"/>
             <animateMotion keyTimes="0;0.463;0.6814;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0 0 1 1" dur="9000ms" repeatCount="indefinite" attributeName="transform" keyPoints="0;0.2951;0.7459;1" path="m307.2131 682.1983l19.7224 -9.0571l-32.8849 -4.2015l13.1626 13.2586" additive="sum"/>
             <animateTransform attributeName="transform" type="translate" from="-313.3767 -686.8947" to="-313.3767 -686.8947" calcMode="discrete" dur="9000ms" repeatCount="indefinite" additive="sum"/>
@@ -32,7 +32,7 @@
           </path>
         </g>
       </g>
-      <path fill="#f2b026" fill-opacity="0" stroke="#01507b" stroke-opacity="0" stroke-width="10" d="m0 0l-61.2398 0l-66.3285 174.7055l49.1823 0l-70.306 274.2262q138.9147 -293.754 138.9147 -293.754q0 0 -51.4625 -30.0894q26.2151 -62.8301 61.2398 -125.0882z" transform="matrix(1.738 0 0 0.8742 655.6499 325.7342)">
+      <path fill="#f2b026" fill-opacity="0" stroke="#01507b" stroke-opacity="0" stroke-width="10" d="m0 0l-61.2398 0l-66.3285 174.7055l49.1823 0l-70.306 274.2262q138.9147 -293.754 138.9147 -293.754q0 0 -51.4625 -30.0894q26.2151 -62.8301 61.2398 -125.0882z" transform="matrix(1.738 0 0 0.8742 655.6499 325.7342)" style="">
         <animate keyTimes="0;0.4889;0.5074;0.5167;0.5222;0.5314;1" calcMode="linear" dur="9000ms" repeatCount="indefinite" attributeName="fill-opacity" values="0;0;1;0.32;1;0;0"/>
         <animate keyTimes="0;0.4889;0.5074;0.5167;0.5222;0.5314;1" calcMode="linear" dur="9000ms" repeatCount="indefinite" attributeName="stroke-opacity" values="0;0;1;0.32;1;0;0"/>
         <animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" calcMode="discrete" dur="9000ms" repeatCount="indefinite"/>

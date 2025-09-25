@@ -56,7 +56,7 @@ Image below only shows part of collection. Go to directory to see full collectio
 ### UPDATE 10/21b/24:
    -Added Finance, Tools, Chat (a), and Downloads-2 (b) Icons.
 
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-finances.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/blue-chat.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-hammer.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-downloads2.svg" width=120 height=120>
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-finances.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/blue-chat.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-hammer.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-downloads2.svg" width=120 height=120>
 
 
 ### UPDATE 10/9/24:
@@ -77,7 +77,7 @@ Image below only shows part of collection. Go to directory to see full collectio
    -Fixed png icons that were "empty"
 
 
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/blue-jellyfin.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-camera.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-cooking.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Grey-Collection/grey-plex.svg" width=120 height=120>
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/blue-jellyfin.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-camera.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-cooking.svg" width=120 height=120> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/blue-plex.svg" width=120 height=120>
 
 
 
@@ -85,14 +85,10 @@ Image below only shows part of collection. Go to directory to see full collectio
    -Added AI icons to collections.
    
    
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-ai.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-ai2.svg" width=100 height=100> 
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-ai.svg" width=100 height=100>
  
 
 
-
-### Animation Preview
-
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/blue-security.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Grey-Collection/grey-dash.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-code.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-grafana.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Grey-Collection/grey-youtube.svg" width=100 height=100> <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/orange-plex.svg" width=100 height=100>  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-productivity.svg" width=100 height=100>
 
 ### Description
 These are alternative color versions of **[ground7's](https://github.com/ground7/unraid-animated-svgs)** collection of animated .svg icons. 

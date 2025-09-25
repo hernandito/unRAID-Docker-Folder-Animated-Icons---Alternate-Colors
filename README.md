@@ -31,6 +31,7 @@ Image below only shows part of collection. Go to directory to see full collectio
 
 ### UPDATE 9/25/25:
    -Added Immich and Nexcloud Icons.
+   
  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Pale-Collection/pale-immich.svg" width=82 height=82>
  <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/yellow-nextcloud.svg" width=82 height=82>
 

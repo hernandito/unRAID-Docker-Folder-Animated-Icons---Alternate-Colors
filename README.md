@@ -12,12 +12,6 @@ Please note that a massive amount of new and refined icons have been added since
 ## Blue Collection
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Blue-Collection/Blue%20Collection.png">
 
-## Grey Collection
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Grey-Collection/Grey%20Collection.png">
-
-## Orange Collection
-<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Orange-Collection/Orange%20Collection.png">
-
 ## Yellow Collection 
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Yellow-Collection/Yellow%20Collection.png">
 
@@ -30,6 +24,12 @@ Image below only shows part of collection. Go to directory to see full collectio
 Image below only shows part of collection. Go to directory to see full collection.
 
 <img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Grey-Flat-Collection/grey-flat-collection.png">
+
+
+## Dark Grey Flat Collection - added 9/27/2025
+Image below only shows part of collection. Go to directory to see full collection.
+
+<img src="https://raw.githubusercontent.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors/master/Dark-Grey-Flat-Collection/dark-grey-flat-collection.png">
 
 ### UPDATE 9/25/25:
    -Added Immich and Nexcloud Icons.

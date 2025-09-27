@@ -2,7 +2,7 @@
 
 
 ### Preview
-Please note that a massive amount of new and refined icons have been added since the begining of November 2024. These new icons exist ONLY in the Pale, Blue, Grey-Flat, Orange-Flat, and Yellow Collection. I have abandoned the original Orange and Grey collections as these are quite difficult to change the icon's gradient color background. These are now loacated in the "deprecated" folder. I created the Grey-Flat, Dark-Grey-Flat, and Orange-Flat as substitutes. 
+Please note that a massive amount of new and refined icons have been added since the begining of November 2024. I have abandoned the original Orange and Grey collections as these are quite difficult to change the icon's gradient color background. These are now loacated in the "deprecated" folder. I created the Grey-Flat, Dark-Grey-Flat, and Orange-Flat as substitutes. 
 
 #Update 9/27/25: Flat-Dark-Grey collection now finished. #
 
